@@ -19,7 +19,7 @@ jobs:
           name: Optimized pack
 
       - name: Generate Hash
-        run: sha1sum pack.zip > hash.txt
+        run: sha1sum pack.zip | head -c 40 > hash.txt
 
       - name: Tag and create release
         uses: softprops/action-gh-release@v1
