@@ -26,5 +26,5 @@ jobs:
         with:
           tag_name: latest
           files: |
-          pack.zip
-          hash.txt
+            pack.zip
+            hash.txt
