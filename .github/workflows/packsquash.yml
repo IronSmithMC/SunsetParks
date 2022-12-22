@@ -17,8 +17,14 @@ jobs:
         uses: actions/download-artifact@v3
         with:
           name: Optimized pack
+
+      - name: Generate Hash
+        run: sha1sum pack.zip > hash.txt
+
       - name: Tag and create release
         uses: softprops/action-gh-release@v1
         with:
           tag_name: latest
-          files: pack.zip
+          files: |
+          pack.zip
+          hash.txt
