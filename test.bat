@@ -1,0 +1,6 @@
+@echo off
+echo Zipping...
+"C:\Program Files\7-Zip\7z.exe" a -tzip ".\work\local-pack.zip" ".\pack\*"
+echo Installing To Client...
+copy /Y ".\work\local-pack.zip" "C:\Users\%UserProfile%\AppData\Roaming\.minecraft\resourcepacks\local-pack.zip"
+echo Done!  Please use F3+T to reload in game.  Remember, server pack takes priority over changes.

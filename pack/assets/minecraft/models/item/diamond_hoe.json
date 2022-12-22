@@ -4,7 +4,7 @@
 		"0": "block/red_concrete",
 		"1": "block/hopper_inside",
 		"3": "block/red_terracotta",
-		"4": "item/universal_single_riders",
+		"4": "item/diamond_hoe/universal_single_riders",
 		"particle": "block/red_terracotta"
 	},
 	"elements": [
