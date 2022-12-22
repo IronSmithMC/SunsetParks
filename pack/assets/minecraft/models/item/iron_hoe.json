@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "block/red_concrete",
 		"1": "block/hopper_inside",
-		"2": "textures/item/universal_express",
+		"2": "item/universal_express",
 		"3": "block/red_terracotta",
 		"particle": "block/red_terracotta"
 	},
