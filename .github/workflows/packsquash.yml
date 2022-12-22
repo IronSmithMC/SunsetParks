@@ -20,11 +20,14 @@ jobs:
 
       - name: Generate Hash
         run: sha1sum pack.zip | head -c 40 > hash.txt
+      
+      - name: Copy Pack For Plugin
+        run: cp pack.zip $(cat hash.txt).zip
 
       - name: Tag and create release
         uses: softprops/action-gh-release@v1
         with:
           tag_name: latest
           files: |
-            pack.zip
+            *.zip
             hash.txt
