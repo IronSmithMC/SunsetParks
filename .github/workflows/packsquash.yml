@@ -13,3 +13,12 @@ jobs:
         uses: ComunidadAylas/PackSquash-action@v3
         with:
           path: pack
+      - name: Download optimized pack
+        uses: actions/download-artifact@v3
+        with:
+          name: Optimized pack
+      - name: Tag and create release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: latest
+          files: pack.zip
