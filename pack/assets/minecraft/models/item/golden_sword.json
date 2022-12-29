@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "wooden_something",
 	"textures": {
-		"0": "larmbm",
-		"particle": "larmbm"
+		"0": "item/golden_sword/larmbm",
+		"particle": "item/golden_sword/larmbm"
 	},
 	"elements": [
 		{
