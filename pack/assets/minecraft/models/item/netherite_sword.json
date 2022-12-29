@@ -3,8 +3,8 @@
 	"parent": "netherite_sword",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "block/moomy",
-		"particle": "block/moomy"
+		"0": "item/netherite_sword/moomy",
+		"particle": "item/netherite_sword/moomy"
 	},
 	"elements": [
 		{
