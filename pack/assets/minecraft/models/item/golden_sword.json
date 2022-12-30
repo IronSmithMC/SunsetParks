@@ -33,6 +33,12 @@
 			}
 		}
 	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [6, -2, -3.5]
+		}
+	},
 	"groups": [
 		{
 			"name": "steve",
