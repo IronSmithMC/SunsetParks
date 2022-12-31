@@ -1,0 +1,13 @@
+{
+    "parent": "minecraft:item/generated",
+        "textures": {
+          "layer0": "minecraft:item/stone_axe"
+        },
+	
+	"overrides":[
+	
+		{"predicate": {"custom_model_data":1}, "model": "custom/sarcophagus/dirt"},
+        {"predicate": {"custom_model_data":2}, "model": "custom/sarcophagus/dirt-back"},
+        {"predicate": {"custom_model_data":3}, "model": "custom/sarcophagus/dirt-front"}
+	]
+}
