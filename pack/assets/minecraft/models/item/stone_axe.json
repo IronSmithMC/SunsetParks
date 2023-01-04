@@ -8,6 +8,7 @@
 	
 		{"predicate": {"custom_model_data":1}, "model": "custom/sarcophagus/dirt"},
         {"predicate": {"custom_model_data":2}, "model": "custom/sarcophagus/dirt-back"},
-        {"predicate": {"custom_model_data":3}, "model": "custom/sarcophagus/dirt-front"}
+        {"predicate": {"custom_model_data":3}, "model": "custom/sarcophagus/dirt-front"},
+        {"predicate": {"custom_model_data":4}, "model": "custom/mummy-lamp"}
 	]
 }
