@@ -9,6 +9,7 @@
 		{"predicate": {"custom_model_data":1}, "model": "custom/sarcophagus/normal"},
         {"predicate": {"custom_model_data":2}, "model": "custom/sarcophagus/back"},
         {"predicate": {"custom_model_data":3}, "model": "custom/sarcophagus/front"},
-        {"predicate": {"custom_model_data":4}, "model": "custom/mummy-lamp"}
+        {"predicate": {"custom_model_data":4}, "model": "custom/mummy-lamp"},
+        {"predicate": {"custom_model_data":5}, "model": "custom/mummy-gold-light"}
 	]
 }
