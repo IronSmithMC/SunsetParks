@@ -3,8 +3,8 @@
 	"parent": "stone_axe",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "totdoor",
-		"particle": "totdoor"
+		"0": "custom/tot/totdoor",
+		"particle": "custom/tot/totdoor"
 	},
 	"elements": [
 		{
