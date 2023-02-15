@@ -1,7 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "stone_axe",
-	"texture_size": [128, 128],
 	"textures": {
 		"0": "custom/tot/totdoor"
 	},
