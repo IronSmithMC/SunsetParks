@@ -3,7 +3,7 @@
 	"texture_size": [512, 512],
 	"textures": {
 		"0": "item/stone_shovel/totelevator1",
-		"1": "item/stone_shovel/TOTSIGN",
+		"1": "item/stone_shovel/totsign",
 		"particle": "item/stone_shovel/totelevator1"
 	},
 	"elements": [
