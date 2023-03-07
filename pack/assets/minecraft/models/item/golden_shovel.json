@@ -4,7 +4,7 @@
 		"layer0": "item/golden_shovel"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "custom/spooder"},
-		{"predicate": {"custom_model_data": 2}, "model": "custom/hulk"}
+		{"predicate": {"custom_model_data": 0}, "model": "custom/spooder"},
+		{"predicate": {"custom_model_data": 1}, "model": "custom/hulk"}
 ]
 }
