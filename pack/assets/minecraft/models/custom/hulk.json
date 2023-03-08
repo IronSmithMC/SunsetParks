@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "textures/item/golden_shovel/hulkCol",
-		"particle": "textures/item/golden_shovel/hulkCol"
+		"0": "textures/item/golden_shovel/hulkcol",
+		"particle": "textures/item/golden_shovel/hulkcol"
 	},
 	"elements": [
 		{
