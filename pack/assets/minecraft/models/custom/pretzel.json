@@ -1,8 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/pretzel",
-		"particle": "custom/pretzel"
+		"0": "custom/pretzel"
 	},
 	"elements": [
 		{
