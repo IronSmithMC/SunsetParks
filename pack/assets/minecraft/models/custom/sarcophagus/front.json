@@ -1,7 +1,7 @@
 {
 	"credit": "Designed by Ultr4Anubis with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"2": "custom/sarcophagus/noisy_mushroom"
+		"2": "item/custom/sarcophagus/noisy_mushroom"
 	},
 	"elements": [
 		{
