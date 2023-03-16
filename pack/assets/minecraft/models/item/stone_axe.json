@@ -12,6 +12,7 @@
     {"predicate": {"custom_model_data":4}, "model": "custom/mummy-lamp"},
     {"predicate": {"custom_model_data":5}, "model": "custom/mummy-gold-light"},
     {"predicate": {"custom_model_data":6}, "model": "custom/tot/totdoor"},
-    {"predicate": {"custom_model_data":7}, "model": "custom/mirror"}
+    {"predicate": {"custom_model_data":7}, "model": "custom/mirror"},
+    {"predicate": {"custom_model_data":8}, "model": "custom/cauldron"}
 	]
 }
