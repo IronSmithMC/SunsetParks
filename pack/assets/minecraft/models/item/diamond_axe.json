@@ -8,6 +8,7 @@
 	
 	{"predicate": {"custom_model_data":1}, "model": "custom/popcart"},
 	{"predicate": {"custom_model_data":2}, "model": "custom/plain_mickey_ears"},
-	{"predicate": {"custom_model_data":3}, "model": "custom/mmplush"}
+	{"predicate": {"custom_model_data":3}, "model": "custom/mmplush"},
+	{"predicate": {"custom_model_data":3}, "model": "custom/maintr"}
 ]
 }
