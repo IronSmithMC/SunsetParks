@@ -275,15 +275,20 @@
 			"translation": [-6.5, -5.25, 5.5]
 		},
 		"firstperson_righthand": {
-			"translation": [19, -1.5, 0]
+			"translation": [19, 2.25, 0],
+			"scale": [1.28, 1.28, 1.28]
 		},
 		"firstperson_lefthand": {
-			"translation": [5.75, -1.75, 0]
+			"translation": [5.75, 1.25, 0]
 		},
 		"gui": {
 			"rotation": [-150.75, 26.25, -180],
 			"translation": [-5.5, 11.5, 0],
 			"scale": [2, 2, 2]
+		},
+		"head": {
+			"translation": [15.25, 0, 0],
+			"scale": [2.5, 2.5, 2.5]
 		}
 	}
 }
