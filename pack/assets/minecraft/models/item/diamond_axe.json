@@ -25,7 +25,7 @@
 	{"predicate": {"custom_model_data":17}, "model": "custom/fast"},
 	{"predicate": {"custom_model_data":18}, "model": "custom/auto"},
 	{"predicate": {"custom_model_data":19}, "model": "custom/phone"},
-	{"predicate": {"custom_model_data":20}, "model": "custom/moomy"}
+	{"predicate": {"custom_model_data":20}, "model": "custom/moomy"},
 	{"predicate": {"custom_model_data":21}, "model": "custom/homer"},
 	{"predicate": {"custom_model_data":22}, "model": "custom/hpstat"},
 	{"predicate": {"custom_model_data":23}, "model": "custom/rrr"},
