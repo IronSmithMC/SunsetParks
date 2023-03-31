@@ -1,0 +1,36 @@
+{
+    "parent": "minecraft:item/generated",
+        "textures": {
+          "layer0": "minecraft:item/diamond_axe"
+        },
+	
+	"overrides":[
+	
+	{"predicate": {"custom_model_data":1}, "model": "custom/popcart"},
+	{"predicate": {"custom_model_data":2}, "model": "custom/plain_mickey_ears"},
+	{"predicate": {"custom_model_data":3}, "model": "custom/mmplush"},
+	{"predicate": {"custom_model_data":4}, "model": "custom/maintr"},
+	{"predicate": {"custom_model_data":5}, "model": "custom/cathat"},
+	{"predicate": {"custom_model_data":6}, "model": "custom/minion"},
+	{"predicate": {"custom_model_data":7}, "model": "custom/gsarc"},
+	{"predicate": {"custom_model_data":8}, "model": "custom/shrek"},
+	{"predicate": {"custom_model_data":9}, "model": "custom/miminion"},
+	{"predicate": {"custom_model_data":10}, "model": "custom/express"},
+	{"predicate": {"custom_model_data":11}, "model": "custom/golden_sarc"},
+	{"predicate": {"custom_model_data":12}, "model": "custom/trex"},
+	{"predicate": {"custom_model_data":13}, "model": "custom/click"},
+	{"predicate": {"custom_model_data":14}, "model": "custom/logo"},
+	{"predicate": {"custom_model_data":15}, "model": "custom/hatun"},
+	{"predicate": {"custom_model_data":16}, "model": "custom/minioon"},
+	{"predicate": {"custom_model_data":17}, "model": "custom/fast"},
+	{"predicate": {"custom_model_data":18}, "model": "custom/auto"},
+	{"predicate": {"custom_model_data":19}, "model": "custom/phone"},
+	{"predicate": {"custom_model_data":20}, "model": "custom/moomy"}
+	{"predicate": {"custom_model_data":21}, "model": "custom/homer"},
+	{"predicate": {"custom_model_data":22}, "model": "custom/hpstat"},
+	{"predicate": {"custom_model_data":23}, "model": "custom/rrr"},
+	{"predicate": {"custom_model_data":24}, "model": "custom/monscafe"},
+	{"predicate": {"custom_model_data":25}, "model": "custom/brazier"}
+
+]
+}

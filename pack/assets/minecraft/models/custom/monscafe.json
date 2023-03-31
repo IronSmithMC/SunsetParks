@@ -1,0 +1,23 @@
+{
+	"credit": "Created with Blockbench [Exported as resourcepack with the \"resourcepack_packager\" plugin]",
+	"parent": "wooden_sword",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "item/wooden_sword/monscafe",
+		"particle": "item/wooden_sword/monscafe"
+	},
+	"elements": [
+		{
+			"from": [-16, -8, 7],
+			"to": [32, 32, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0.5, 10], "texture": "#0"},
+				"south": {"uv": [0, 0, 0.62767, 0.65335], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.5, 10], "texture": "#0"},
+				"up": {"uv": [0, 0, 12, 0.5], "texture": "#0"},
+				"down": {"uv": [0, 0, 12, 0.5], "texture": "#0"}
+			}
+		}
+	]
+}
