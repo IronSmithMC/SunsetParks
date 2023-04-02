@@ -30,7 +30,8 @@
 	{"predicate": {"custom_model_data":22}, "model": "custom/hpstat"},
 	{"predicate": {"custom_model_data":23}, "model": "custom/rrr"},
 	{"predicate": {"custom_model_data":24}, "model": "custom/monscafe"},
-	{"predicate": {"custom_model_data":25}, "model": "custom/brazier"}
+	{"predicate": {"custom_model_data":25}, "model": "custom/brazier"},
+	{"predicate": {"custom_model_data":26}, "model": "custom/leximinion"}
 
 ]
 }
