@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/kevin",
-		"particle": "block/kevin"
+		"0": "item/custom/kevin",
+		"particle": "item/custom/kevin"
 	},
 	"elements": [
 		{
