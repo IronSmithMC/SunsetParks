@@ -18,5 +18,10 @@
 				"down": {"uv": [0, 0, 0.5, 0.5], "texture": "#missing"}
 			}
 		}
-	]
+	],
+	"display": {
+		"head": {
+			"scale": [2, 1, 1]
+		}
+	}
 }
