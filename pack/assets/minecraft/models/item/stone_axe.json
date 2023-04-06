@@ -14,6 +14,8 @@
     {"predicate": {"custom_model_data":6}, "model": "custom/tot/totdoor"},
     {"predicate": {"custom_model_data":7}, "model": "custom/mirror"},
     {"predicate": {"custom_model_data":8}, "model": "custom/cauldron"},
-    {"predicate": {"custom_model_data":9}, "model": "custom/swew"}
+    {"predicate": {"custom_model_data":9}, "model": "custom/swew"},
+    {"predicate": {"custom_model_data":10}, "model": "custom/swewdoorone"},
+    {"predicate": {"custom_model_data":11}, "model": "custom/swewdoortwo"}
 	]
 }
