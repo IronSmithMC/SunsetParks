@@ -31,7 +31,10 @@
 	{"predicate": {"custom_model_data":23}, "model": "custom/rrr"},
 	{"predicate": {"custom_model_data":24}, "model": "custom/monscafe"},
 	{"predicate": {"custom_model_data":25}, "model": "custom/brazier"},
-	{"predicate": {"custom_model_data":26}, "model": "custom/leximinion"}
+	{"predicate": {"custom_model_data":26}, "model": "custom/leximinion"},
+	{"predicate": {"custom_model_data":27}, "model": "custom/onehun"},
+	{"predicate": {"custom_model_data":28}, "model": "custom/shmic"},
+	{"predicate": {"custom_model_data":29}, "model": "custom/astorb"}
 
 ]
 }
