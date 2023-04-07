@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "item/custom/astorbone",
 		"1": "item/custom/astorbtwo",
-		"particle": "astorbone"
+		"particle": "item/custom/astorbone"
 	},
 	"elements": [
 		{
@@ -656,7 +656,7 @@
 	"display": {
 		"head": {
 			"rotation": [2, -89, -5],
-			"translation": [-8, -38, -0.25],
+			"translation": [-8, -7.75, -0.25],
 			"scale": [1.94, 1.94, 1.94]
 		}
 	}
