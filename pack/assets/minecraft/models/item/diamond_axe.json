@@ -36,7 +36,7 @@
 	{"predicate": {"custom_model_data":28}, "model": "custom/shmic"},
 	{"predicate": {"custom_model_data":29}, "model": "custom/astorb"},
 	{"predicate": {"custom_model_data":30}, "model": "custom/bunny"},
-	{"predicate": {"custom_model_data":31}, "model": "custom/micears"}
+	{"predicate": {"custom_model_data":31}, "model": "custom/micears"},
 	{"predicate": {"custom_model_data":32}, "model": "custom/minbow"}
 
 ]
