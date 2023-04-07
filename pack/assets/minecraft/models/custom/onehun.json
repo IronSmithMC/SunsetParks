@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "blurpth",
-		"5": "blurptw",
-		"6": "blurp",
-		"particle": "blurpth"
+		"0": "item/custom/blurpth",
+		"5": "item/custom/blurptw",
+		"6": "item/custom/blurp",
+		"particle": "item/custom/blurpth"
 	},
 	"elements": [
 		{
