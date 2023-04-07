@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/item/blmic",
-		"1": "custom/item/remic",
-		"2": "custom/item/whmic",
-		"particle": "custom/item/blmic"
+		"0": "item/custom//blmic",
+		"1": "item/custom/remic",
+		"2": "item/custom/whmic",
+		"particle": "item/custom/blmic"
 	},
 	"elements": [
 		{
