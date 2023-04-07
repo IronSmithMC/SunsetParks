@@ -34,7 +34,8 @@
 	{"predicate": {"custom_model_data":26}, "model": "custom/leximinion"},
 	{"predicate": {"custom_model_data":27}, "model": "custom/onehun"},
 	{"predicate": {"custom_model_data":28}, "model": "custom/shmic"},
-	{"predicate": {"custom_model_data":29}, "model": "custom/astorb"}
+	{"predicate": {"custom_model_data":29}, "model": "custom/astorb"},
+	{"predicate": {"custom_model_data":30}, "model": "custom/bunny"}
 
 ]
 }
