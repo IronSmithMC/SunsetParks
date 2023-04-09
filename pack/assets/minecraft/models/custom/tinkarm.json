@@ -1,0 +1,49 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "item/custom/tink arm",
+		"particle": "item/custom/tink arm"
+	},
+	"elements": [
+		{
+			"name": "left_arm",
+			"from": [0, 11.25, 6],
+			"to": [4, 23.5, 10],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 6], "texture": "#0"},
+				"east": {"uv": [2, 0, 4, 6], "texture": "#0"},
+				"south": {"uv": [4, 0, 6, 6], "texture": "#0"},
+				"west": {"uv": [0, 6, 2, 12], "texture": "#0"},
+				"up": {"uv": [8, 2, 6, 0], "texture": "#0"},
+				"down": {"uv": [4, 6, 2, 8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [1.7, 12.7, -4.75],
+			"to": [2.3, 13.3, 6.25],
+			"faces": {
+				"north": {"uv": [4.5, 6, 4.75, 6.25], "texture": "#0"},
+				"east": {"uv": [6, 2, 11.5, 2.25], "texture": "#0"},
+				"south": {"uv": [5, 6, 5.25, 6.25], "texture": "#0"},
+				"west": {"uv": [6, 2.5, 11.5, 2.75], "texture": "#0"},
+				"up": {"uv": [6.25, 8.5, 6, 3], "texture": "#0"},
+				"down": {"uv": [4.25, 6, 4, 11.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [-6, -2, -3.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "steve",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}
