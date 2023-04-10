@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/custom/applebag",
-		"particle": "item/custom/applebag"
+		"0": "applebag",
+		"particle": "applebag"
 	},
 	"elements": [
 		{
@@ -164,8 +164,8 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [65, 0, 0],
-			"translation": [-6.5, -5, 7]
+			"rotation": [79, 0, 0],
+			"translation": [-6.5, -4, 5.5]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [76, 0, 0],
