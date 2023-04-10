@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "minbow",
-		"particle": "minbow"
+		"0": "item/custom/minbow",
+		"particle": "item/custom/minbow"
 	},
 	"elements": [
 		{
