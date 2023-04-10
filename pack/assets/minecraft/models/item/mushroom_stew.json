@@ -34,6 +34,8 @@
         {"predicate": {"custom_model_data":28}, "model": "custom/food/item-food-croissant"},
 	{"predicate": {"custom_model_data":29}, "model": "custom/food/pretzel"},
 	{"predicate": {"custom_model_data":30}, "model": "custom/food/milkshake"},
-	{"predicate": {"custom_model_data":31}, "model": "custom/milkstraw"}
+	{"predicate": {"custom_model_data":31}, "model": "custom/milkstraw"},
+	{"predicate": {"custom_model_data":32}, "model": "custom/omelette"}
+	
 	]
 }
