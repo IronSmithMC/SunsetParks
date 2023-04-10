@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/custom/tangled_sachel",
-		"particle": "item/custom/tangled_sachel"
+		"0": "tangled_sachel",
+		"particle": "tangled_sachel"
 	},
 	"elements": [
 		{
@@ -243,6 +243,14 @@
 		"thirdperson_lefthand": {
 			"rotation": [68, 91, 0],
 			"translation": [0.25, -4, 5.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [-61, 0, 0],
+			"translation": [0, -9.25, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-64, 0, 0],
+			"translation": [0, -9.25, 0]
 		},
 		"fixed": {
 			"rotation": [0, -175, 0],
