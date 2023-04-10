@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "micears",
-		"particle": "micears"
+		"0": "item/custom/micears",
+		"particle": "item/custom/micears"
 	},
 	"elements": [
 		{
