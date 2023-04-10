@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/custom Omelettetwo",
-		"1": "item/custom omeletteone",
-		"particle": "Omelettetwo"
+		"0": "item/custom/omelettetwo",
+		"1": "item/custom/omeletteone",
+		"particle": "omelettetwo"
 	},
 	"elements": [
 		{
