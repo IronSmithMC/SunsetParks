@@ -42,7 +42,7 @@
 	{"predicate": {"custom_model_data":34}, "model": "custom/rightarm"},
 	{"predicate": {"custom_model_data":35}, "model": "custom/pinkheadb"},
 	{"predicate": {"custom_model_data":36}, "model": "custom/swheadb"},
-	{"predicate": {"custom_model_data":36}, "model": "custom/blueluma"}
+	{"predicate": {"custom_model_data":37}, "model": "custom/blueluma"}
 		
 ]
 }
