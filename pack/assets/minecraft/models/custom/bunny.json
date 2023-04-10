@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "bunny",
-		"particle": "bunny"
+		"0": "item/custom/bunny",
+		"particle": "item/custom/bunny"
 	},
 	"elements": [
 		{
