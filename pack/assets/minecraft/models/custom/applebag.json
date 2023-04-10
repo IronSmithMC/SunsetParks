@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "applebag",
-		"particle": "applebag"
+		"0": "item/custom/applebag",
+		"particle": "item/custom/applebag"
 	},
 	"elements": [
 		{
