@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "bubblewand",
-		"particle": "bubblewand"
+		"0": "item/custom/bubblewand",
+		"particle": "item/custom/bubblewand"
 	},
 	"elements": [
 		{
