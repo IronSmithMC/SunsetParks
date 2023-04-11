@@ -47,7 +47,8 @@
 	{"predicate": {"custom_model_data":39}, "model": "custom/tangled_sachel"},
 	{"predicate": {"custom_model_data":40}, "model": "custom/tink"},
 	{"predicate": {"custom_model_data":41}, "model": "custom/mario_hat"},
-	{"predicate": {"custom_model_data":42}, "model": "custom/minmheadb"}
+	{"predicate": {"custom_model_data":42}, "model": "custom/minmheadb"},
+	{"predicate": {"custom_model_data":43}, "model": "custom/tinkears"}
 				
 ]
 }
