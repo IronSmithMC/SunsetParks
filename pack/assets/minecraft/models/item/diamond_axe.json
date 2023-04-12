@@ -51,7 +51,8 @@
 	{"predicate": {"custom_model_data":43}, "model": "custom/tinkears"},
 	{"predicate": {"custom_model_data":44}, "model": "custom/bubblewand"},
 	{"predicate": {"custom_model_data":45}, "model": "custom/tikiears"},
-	{"predicate": {"custom_model_data":46}, "model": "custom/leftarm"}
+	{"predicate": {"custom_model_data":46}, "model": "custom/leftarm"},
+	{"predicate": {"custom_model_data":47}, "model": "custom/peterpan"}
 				
 ]
 }
