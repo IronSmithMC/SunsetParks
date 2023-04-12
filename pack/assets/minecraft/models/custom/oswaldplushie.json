@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "oswaldplushie",
-		"particle": "oswaldplushie"
+		"0": "item/custom/oswaldplushie",
+		"particle": "item/custom/oswaldplushie"
 	},
 	"elements": [
 		{
