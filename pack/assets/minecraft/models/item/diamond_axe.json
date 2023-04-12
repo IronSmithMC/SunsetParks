@@ -53,7 +53,16 @@
 	{"predicate": {"custom_model_data":45}, "model": "custom/tikiears"},
 	{"predicate": {"custom_model_data":46}, "model": "custom/leftarm"},
 	{"predicate": {"custom_model_data":47}, "model": "custom/peterpan"},
-	{"predicate": {"custom_model_data":48}, "model": "custom/hp"}
+	{"predicate": {"custom_model_data":48}, "model": "custom/phoexp"},
+	{"predicate": {"custom_model_data":49}, "model": "custom/phofod"},
+	{"predicate": {"custom_model_data":50}, "model": "custom/autopho"},
+	{"predicate": {"custom_model_data":51}, "model": "custom/phoride"},
+	{"predicate": {"custom_model_data":52}, "model": "custom/phopark"},
+	{"predicate": {"custom_model_data":53}, "model": "custom/phosett"},
+	{"predicate": {"custom_model_data":54}, "model": "custom/phoshop"},
+	{"predicate": {"custom_model_data":55}, "model": "custom/phosho"},
+	{"predicate": {"custom_model_data":56}, "model": "custom/phowar"},
+	{"predicate": {"custom_model_data":57}, "model": "custom/hp"}
 				
 ]
 }
