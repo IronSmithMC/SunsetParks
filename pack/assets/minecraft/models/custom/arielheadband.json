@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "item/custom/arielheadband",
-		"1": "texturepacks/flounder",
+		"1": "item/custom/flounder",
 		"particle": "item/custom/arielheadband"
 	},
 	"elements": [
