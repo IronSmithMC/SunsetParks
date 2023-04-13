@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "rupheadband",
-		"1": "pascal",
-		"particle": "rupheadband"
+		"0": "item/custom/rupheadband",
+		"1": "item/custom/pascal",
+		"particle": "item/custom/rupheadband"
 	},
 	"elements": [
 		{
