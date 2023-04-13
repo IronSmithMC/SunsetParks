@@ -64,7 +64,9 @@
 	{"predicate": {"custom_model_data":56}, "model": "custom/phowar"},
 	{"predicate": {"custom_model_data":57}, "model": "custom/hp"},
 	{"predicate": {"custom_model_data":58}, "model": "custom/oswaldplushie"},
-	{"predicate": {"custom_model_data":59}, "model": "custom/floundersp"}
+	{"predicate": {"custom_model_data":59}, "model": "custom/floundersp"},
+	{"predicate": {"custom_model_data":60}, "model": "custom/arielheadband"}
+	
 				
 ]
 }
