@@ -1,0 +1,12 @@
+{
+    "providers": [
+        {"type": "bitmap", "file": "gui/custom/pixel.png","ascent": -2000,"height": -3,"chars": ["\u8527"]},
+        {
+            "type": "bitmap",
+            "file": "gui/custom/phone.png",
+            "ascent": 13,
+            "height": 82,
+            "chars": ["\u8448"]
+        }
+    ]
+}
