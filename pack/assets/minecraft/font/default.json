@@ -3,6 +3,13 @@
         {"type": "bitmap", "file": "gui/custom/pixel.png","ascent": -2000,"height": -3,"chars": ["\u8527"]},
         {
             "type": "bitmap",
+            "file": "minecraft:font/title.png",
+            "height": 64,
+            "ascent": 64,
+            "chars":[ "\uE000" ]
+        },
+        {
+            "type": "bitmap",
             "file": "gui/custom/phone.png",
             "ascent": 13,
             "height": 82,
