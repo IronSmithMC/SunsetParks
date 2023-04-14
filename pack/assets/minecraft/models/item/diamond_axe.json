@@ -55,7 +55,7 @@
 	{"predicate": {"custom_model_data":47}, "model": "custom/peterpan"},
 	{"predicate": {"custom_model_data":48}, "model": "custom/phoexp"},
 	{"predicate": {"custom_model_data":49}, "model": "custom/phofod"},
-	{"predicate": {"custom_model_data":50}, "model": "custom/autopho"},
+	{"predicate": {"custom_model_data":50}, "model": "custom/phoauto"},
 	{"predicate": {"custom_model_data":51}, "model": "custom/phoride"},
 	{"predicate": {"custom_model_data":52}, "model": "custom/phopark"},
 	{"predicate": {"custom_model_data":53}, "model": "custom/phosett"},

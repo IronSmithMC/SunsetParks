@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/custom/gstf/autopho",
-		"particle": "item/custom/gstf/autopho"
+		"0": "item/custom/gstf/phoauto",
+		"particle": "item/custom/gstf/phoauto"
 	},
 	"elements": [
 		{
@@ -18,9 +18,11 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"gui": {
-			"rotation": [0, -180, 0]
+			"rotation": [0, -180, 0],
+			"scale": [0.75, 0.75, 1]
 		}
 	}
 }
