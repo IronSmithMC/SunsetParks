@@ -1,7 +1,6 @@
 {
     "providers": [
         {"type": "bitmap", "file": "gui/custom/pixel.png","ascent": -2000,"height": -3,"chars": ["\u8527"]},
-        {"type": "bitmap", "file": "gui/custom/disneystoregui.png","ascent": 1,"height": -3,"chars": ["\u8529"]},
         {
             "type": "bitmap",
             "file": "minecraft:font/title.png",
