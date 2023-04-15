@@ -68,7 +68,9 @@
 	{"predicate": {"custom_model_data":60}, "model": "custom/arielheadband"},
 	{"predicate": {"custom_model_data":61}, "model": "custom/dumbo"},
 	{"predicate": {"custom_model_data":62}, "model": "custom/rupheadband"},
-	{"predicate": {"custom_model_data":63}, "model": "custom/bed"}
+	{"predicate": {"custom_model_data":63}, "model": "custom/bed"},
+	{"predicate": {"custom_model_data":64}, "model": "custom/mickeyplush"},
+	{"predicate": {"custom_model_data":65}, "model": "custom/minnieplush"}
 	
 				
 ]
