@@ -1,6 +1,7 @@
 {
     "providers": [
-        {"type": "bitmap", "file": "gui/custom/pixel.png","ascent": -2000,"height": -3,"chars": ["\u8527"]},
+        {"type": "bitmap", "file": "gui/custom/pixel.png","ascent": -2000,"height": -10,"chars": ["\u8527"]},
+        {"type": "bitmap", "file": "gui/custom/pixel.png","ascent": -2000,"height": -171,"chars": ["\u8528"]},
         {
             "type": "bitmap",
             "file": "minecraft:font/title.png",
@@ -14,6 +15,62 @@
             "ascent": 13,
             "height": 82,
             "chars": ["\u8448"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/custom/usostore.png",
+            "ascent": 13,
+            "height": 17,
+            "chars": ["\u8598"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/custom/popcorn.png",
+            "ascent": 13,
+            "height": 17,
+            "chars": ["\u8592"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/custom/icecream.png",
+            "ascent": 13,
+            "height": 17,
+            "chars": ["\u8593"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/custom/emporium.png",
+            "ascent": 13,
+            "height": 17,
+            "chars": ["\u8594"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/custom/snail.png",
+            "ascent": 13,
+            "height": 17,
+            "chars": ["\u8595"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/custom/dolewhip.png",
+            "ascent": 13,
+            "height": 17,
+            "chars": ["\u8596"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/custom/starbucks.png",
+            "ascent": 13,
+            "height": 17,
+            "chars": ["\u8597"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/custom/storage.png",
+            "ascent": 13,
+            "height": 17,
+            "chars": ["\u8598"]
         }
     ]
 }
