@@ -72,7 +72,8 @@
 	{"predicate": {"custom_model_data":64}, "model": "custom/mickeyplush"},
 	{"predicate": {"custom_model_data":65}, "model": "custom/minnieplush"},
 	{"predicate": {"custom_model_data":66}, "model": "custom/dumboride"},
-	{"predicate": {"custom_model_data":67}, "model": "custom/teacup"}
+	{"predicate": {"custom_model_data":67}, "model": "custom/teacup"},
+	{"predicate": {"custom_model_data":68}, "model": "custom/lamp"}
 	
 				
 ]
