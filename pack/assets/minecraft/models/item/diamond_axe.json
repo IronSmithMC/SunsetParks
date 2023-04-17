@@ -73,10 +73,10 @@
 	{"predicate": {"custom_model_data":65}, "model": "custom/minnieplush"},
 	{"predicate": {"custom_model_data":66}, "model": "custom/dumboride"},
 	{"predicate": {"custom_model_data":67}, "model": "custom/teacup"},
-	{"predicate": {"custom_model_data":68}, "model": "custom/lamp"}
+	{"predicate": {"custom_model_data":68}, "model": "custom/lamp"},
 	{"predicate": {"custom_model_data":69}, "model": "custom/peterpanride"}
 	
 		
 				
-
+]
 }
