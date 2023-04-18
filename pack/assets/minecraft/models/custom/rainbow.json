@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/custom/rainbow",
-		"particle": "item/custom/rainbow"
+		"0": "texturepacks/rainbow",
+		"particle": "texturepacks/rainbow"
 	},
 	"elements": [
 		{
@@ -371,7 +371,7 @@
 		"thirdperson_righthand": {
 			"rotation": [66, 0, 0],
 			"translation": [2.25, 0.5, 34.5],
-			"scale": [2.16, 2.16, 2.16]
+			"scale": [3.25, 3.25, 3.25]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [66, 0, 0],
