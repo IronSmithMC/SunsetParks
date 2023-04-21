@@ -78,7 +78,8 @@
 	{"predicate": {"custom_model_data":70}, "model": "custom/bigb"},
 	{"predicate": {"custom_model_data":71}, "model": "custom/fanlam"},
 	{"predicate": {"custom_model_data":72}, "model": "custom/sail"},
-	{"predicate": {"custom_model_data":73}, "model": "custom/rainbow"}
+	{"predicate": {"custom_model_data":73}, "model": "custom/rainbow"},
+	{"predicate": {"custom_model_data":74}, "model": "custom/tictok"}
 	
 		
 				
