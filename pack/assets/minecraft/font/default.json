@@ -71,6 +71,13 @@
             "ascent": 13,
             "height": 19,
             "chars": ["\u8599"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/custom/autograph.png",
+            "ascent": 13,
+            "height": 19,
+            "chars": ["\u8699"]
         }
     ]
 }
