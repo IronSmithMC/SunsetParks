@@ -20,7 +20,7 @@
             "type": "bitmap",
             "file": "gui/custom/usostore.png",
             "ascent": 13,
-            "height": 17,
+            "height": 19,
             "chars": ["\u8598"]
         },
         {
@@ -69,7 +69,7 @@
             "type": "bitmap",
             "file": "gui/custom/storage.png",
             "ascent": 13,
-            "height": 17,
+            "height": 19,
             "chars": ["\u8598"]
         }
     ]
