@@ -7,7 +7,7 @@
             "file": "minecraft:font/title.png",
             "height": 64,
             "ascent": 64,
-            "chars":[ "\uE000" ]
+            "chars":["\uE000"]
         },
         {
             "type": "bitmap",

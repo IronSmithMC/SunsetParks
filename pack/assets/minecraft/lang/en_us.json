@@ -2,5 +2,6 @@
   "menu.game": "\uE000",
   "container.crafting": "",
   "menu.disconnect": "Leave Sunset Parks",
-  "menu.returnToGame": "Back to Sunset Parks"
+  "menu.returnToGame": "Back to Sunset Parks",
+  "container.inventory": ""
 }
