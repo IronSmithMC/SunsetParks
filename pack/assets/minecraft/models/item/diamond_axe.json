@@ -88,7 +88,8 @@
 	{"predicate": {"custom_model_data":80}, "model": "custom/rapplush"},
 	{"predicate": {"custom_model_data":81}, "model": "custom/leiaplush"},
 	{"predicate": {"custom_model_data":82}, "model": "custom/snowplush"},
-	{"predicate": {"custom_model_data":83}, "model": "custom/leiaminnie"}
+	{"predicate": {"custom_model_data":83}, "model": "custom/leiaminnie"},
+	{"predicate": {"custom_model_data":84}, "model": "custom/sabertwo"}
 		
 				
 ]
