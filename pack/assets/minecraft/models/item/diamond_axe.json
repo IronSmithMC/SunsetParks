@@ -83,7 +83,10 @@
 	{"predicate": {"custom_model_data":75}, "model": "custom/pixie-hollow-log"},
 	{"predicate": {"custom_model_data":76}, "model": "custom/lightsaberone"},
 	{"predicate": {"custom_model_data":77}, "model": "custom/jediplush"},
-	{"predicate": {"custom_model_data":78}, "model": "custom/mickeyhun"}
+	{"predicate": {"custom_model_data":78}, "model": "custom/mickeyhun"},
+	{"predicate": {"custom_model_data":79}, "model": "custom/arielplush"},
+	{"predicate": {"custom_model_data":80}, "model": "custom/rapplush"},
+	{"predicate": {"custom_model_data":81}, "model": "custom/leiaplush"}
 		
 				
 ]
