@@ -139,14 +139,22 @@
 		"firstperson_lefthand": {
 			"translation": [6, 0, 0]
 		},
+		"ground": {
+			"translation": [0, 4.5, 0]
+		},
 		"gui": {
 			"rotation": [-157.53, 30.44, -169.75],
 			"translation": [0.75, 3.5, 0],
 			"scale": [0.9, 0.9, 0.9]
 		},
 		"head": {
-			"translation": [0, 14.25, 0],
+			"translation": [0, 13.75, 0],
 			"scale": [1.35, 1.23, 1.31]
+		},
+		"fixed": {
+			"rotation": [-17, 23, 0],
+			"translation": [0.5, 5.75, 0],
+			"scale": [1.21, 1.21, 1.21]
 		}
 	},
 	"groups": [
@@ -154,6 +162,7 @@
 			"name": "bone",
 			"origin": [0, 0, 0],
 			"color": 0,
+			"nbt": "{}",
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8]
 		}
 	]
