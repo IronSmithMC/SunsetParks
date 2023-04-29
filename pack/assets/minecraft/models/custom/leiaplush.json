@@ -396,12 +396,14 @@
 			"translation": [0.75, 0.75, 6.25]
 		},
 		"firstperson_righthand": {
-			"rotation": [0, -91, 2],
-			"translation": [0.5, 7.5, -0.75]
+			"rotation": [0, -108, 2],
+			"translation": [3.25, 2.75, -0.75],
+			"scale": [0.61, 0.61, 0.61]
 		},
 		"firstperson_lefthand": {
-			"rotation": [0, 69, 0],
-			"translation": [-1.25, 8.5, 0]
+			"rotation": [0, 59, 0],
+			"translation": [1.25, 3.75, 0],
+			"scale": [0.61, 0.61, 0.61]
 		},
 		"ground": {
 			"translation": [0, 3.5, 0]
