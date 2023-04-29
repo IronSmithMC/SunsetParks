@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/custom/merch/hulkbox",
-		"particle": "item/custom/merch/hulkbox"
+		"0": "item/custom/hulkbox",
+		"particle": "item/custom/hulkbox"
 	},
 	"elements": [
 		{
@@ -73,8 +73,38 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [103, 0, 0],
-			"translation": [9.25, -5.75, 3.25]
+			"rotation": [91, 0, 0],
+			"translation": [6, -5.25, 1.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [91, 0, 0],
+			"translation": [-6, -5.5, 1.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -100, 0],
+			"translation": [0, 4.25, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 53, 0],
+			"translation": [3.25, 5, 2.5]
+		},
+		"ground": {
+			"translation": [8.5, 8, 7.75]
+		},
+		"gui": {
+			"rotation": [0, -89, 0],
+			"translation": [-5.5, 5.25, 0],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"head": {
+			"rotation": [0, -89, 0],
+			"translation": [-5, 17.75, 8.5],
+			"scale": [1.42, 1.42, 1.42]
+		},
+		"fixed": {
+			"rotation": [0, -93, 0],
+			"translation": [-5.5, 7.25, 8.25],
+			"scale": [1.53, 1.53, 1.53]
 		}
 	}
 }
