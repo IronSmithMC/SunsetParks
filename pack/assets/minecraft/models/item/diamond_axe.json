@@ -91,7 +91,8 @@
 	{"predicate": {"custom_model_data":83}, "model": "custom/leiaminnie"},
 	{"predicate": {"custom_model_data":84}, "model": "custom/sabertwo"},
 	{"predicate": {"custom_model_data":85}, "model": "custom/horns"},
-	{"predicate": {"custom_model_data":86}, "model": "custom/leiabunz"}
+	{"predicate": {"custom_model_data":86}, "model": "custom/leiabunz"},
+	{"predicate": {"custom_model_data":87}, "model": "custom/darthvader"}
 		
 				
 ]
