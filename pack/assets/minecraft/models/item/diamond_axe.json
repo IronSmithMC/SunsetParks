@@ -90,7 +90,8 @@
 	{"predicate": {"custom_model_data":82}, "model": "custom/snowplush"},
 	{"predicate": {"custom_model_data":83}, "model": "custom/leiaminnie"},
 	{"predicate": {"custom_model_data":84}, "model": "custom/sabertwo"},
-	{"predicate": {"custom_model_data":85}, "model": "custom/horns"}
+	{"predicate": {"custom_model_data":85}, "model": "custom/horns"},
+	{"predicate": {"custom_model_data":86}, "model": "custom/leiabunz"}
 		
 				
 ]
