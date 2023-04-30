@@ -78,6 +78,13 @@
             "ascent": 13,
             "height": 19,
             "chars": ["\u8699"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/custom/starwars.png",
+            "ascent": 13,
+            "height": 19,
+            "chars": ["\u8263"]
         }
     ]
 }
