@@ -85,6 +85,13 @@
             "ascent": 13,
             "height": 17,
             "chars": ["\u8263"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/custom/dolewhip.png",
+            "ascent": 13,
+            "height": 17,
+            "chars": ["\u8264"]
         }
     ]
 }
