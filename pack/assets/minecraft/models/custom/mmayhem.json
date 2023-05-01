@@ -19,6 +19,7 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"gui": {
 			"rotation": [95, -180, 0],
