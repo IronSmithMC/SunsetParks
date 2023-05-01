@@ -106,6 +106,41 @@
             "ascent": 13,
             "height": 17,
             "chars": ["\u8266"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/custom/food_lists_gui.png",
+            "ascent": 13,
+            "height": 17,
+            "chars": ["\u8279"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/custom/our_parks_gui.png",
+            "ascent": 13,
+            "height": 17,
+            "chars": ["\u8280"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/custom/rides_list_gui.png",
+            "ascent": 13,
+            "height": 17,
+            "chars": ["\u8281"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/custom/shops_list_gui.png",
+            "ascent": 13,
+            "height": 17,
+            "chars": ["\u8282"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/custom/warps.png",
+            "ascent": 13,
+            "height": 17,
+            "chars": ["\u8283"]
         }
         
     ]
