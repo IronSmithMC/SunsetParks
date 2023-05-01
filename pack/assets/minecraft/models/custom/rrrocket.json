@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "rrrocket",
-		"particle": "rrrocket"
+		"0": "item/custom/gstf/rrrocket",
+		"particle": "item/custom/gstf/rrrocket"
 	},
 	"elements": [
 		{
