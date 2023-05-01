@@ -105,7 +105,11 @@
 	{"predicate": {"custom_model_data":97}, "model": "custom/universal"},
 	{"predicate": {"custom_model_data":98}, "model": "custom/hollywood"},
 	{"predicate": {"custom_model_data":99}, "model": "custom/monster"},
-	{"predicate": {"custom_model_data":100}, "model": "custom/emporium"}
+	{"predicate": {"custom_model_data":100}, "model": "custom/emporium"},
+	{"predicate": {"custom_model_data":101}, "model": "custom/dolewhip"},
+	{"predicate": {"custom_model_data":102}, "model": "custom/carousel"},
+	{"predicate": {"custom_model_data":103}, "model": "custom/castle"},
+	{"predicate": {"custom_model_data":104}, "model": "custom/orbiter"}
 		
 				
 ]
