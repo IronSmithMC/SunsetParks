@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/custom/popcart",
-		"particle": "item/custom/popcart"
+		"0": "item/custom/food/popcart",
+		"particle": "item/custom/food/popcart"
 	},
 	"elements": [
 		{
