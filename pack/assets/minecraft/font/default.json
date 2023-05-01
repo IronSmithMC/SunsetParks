@@ -92,6 +92,14 @@
             "ascent": 13,
             "height": 17,
             "chars": ["\u8264"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/custom/hotdog.png",
+            "ascent": 13,
+            "height": 17,
+            "chars": ["\u8265"]
         }
+        
     ]
 }
