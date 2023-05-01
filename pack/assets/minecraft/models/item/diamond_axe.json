@@ -94,7 +94,9 @@
 	{"predicate": {"custom_model_data":86}, "model": "custom/leiabunz"},
 	{"predicate": {"custom_model_data":87}, "model": "custom/darthvader"},
 	{"predicate": {"custom_model_data":88}, "model": "custom/yoda"},
-	{"predicate": {"custom_model_data":89}, "model": "custom/flag"}
+	{"predicate": {"custom_model_data":89}, "model": "custom/flag"},
+	{"predicate": {"custom_model_data":90}, "model": "custom/mmayhem"},
+	{"predicate": {"custom_model_data":91}, "model": "custom/rrrocket"}
 		
 				
 ]
