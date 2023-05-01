@@ -103,7 +103,8 @@
 	{"predicate": {"custom_model_data":95}, "model": "custom/daauto"},
 	{"predicate": {"custom_model_data":96}, "model": "custom/disneyland"},
 	{"predicate": {"custom_model_data":97}, "model": "custom/universal"},
-	{"predicate": {"custom_model_data":98}, "model": "custom/hollywood"}
+	{"predicate": {"custom_model_data":98}, "model": "custom/hollywood"},
+	{"predicate": {"custom_model_data":97}, "model": "custom/monster"}
 		
 				
 ]
