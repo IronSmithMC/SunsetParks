@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
+		"0": "item/custom/dauto",
 		"particle": "item/custom/dauto"
 	},
 	"elements": [
@@ -9,12 +10,12 @@
 			"from": [0, 0, 0],
 			"to": [16, 0.25, 16.75],
 			"faces": {
-				"north": {"uv": [0, 4.5, 4, 4.5625], "texture": "#missing"},
-				"east": {"uv": [0, 4.25, 4.1875, 4.3125], "texture": "#missing"},
-				"south": {"uv": [4, 4.5, 8, 4.5625], "texture": "#missing"},
-				"west": {"uv": [4.25, 4.25, 8.4375, 4.3125], "texture": "#missing"},
-				"up": {"uv": [16, 16, 0, 0], "texture": "#missing"},
-				"down": {"uv": [8, 0, 4, 4.1875], "texture": "#missing"}
+				"north": {"uv": [0, 4.5, 4, 4.5625], "texture": "#0"},
+				"east": {"uv": [0, 4.25, 4.1875, 4.3125], "texture": "#0"},
+				"south": {"uv": [4, 4.5, 8, 4.5625], "texture": "#0"},
+				"west": {"uv": [4.25, 4.25, 8.4375, 4.3125], "texture": "#0"},
+				"up": {"uv": [16, 16, 0, 0], "texture": "#0"},
+				"down": {"uv": [8, 0, 4, 4.1875], "texture": "#0"}
 			}
 		}
 	],
