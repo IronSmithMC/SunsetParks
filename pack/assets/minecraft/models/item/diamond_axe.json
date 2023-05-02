@@ -109,7 +109,8 @@
 	{"predicate": {"custom_model_data":101}, "model": "custom/dolewhip"},
 	{"predicate": {"custom_model_data":102}, "model": "custom/carousel"},
 	{"predicate": {"custom_model_data":103}, "model": "custom/castle"},
-	{"predicate": {"custom_model_data":104}, "model": "custom/orbiter"}
+	{"predicate": {"custom_model_data":104}, "model": "custom/orbiter"},
+	{"predicate": {"custom_model_data":105}, "model": "custom/hollyauto"}
 		
 				
 ]
