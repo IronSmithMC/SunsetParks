@@ -5,7 +5,7 @@
 		"1": "block/dark_prismarine",
 		"2": "block/redstone_block",
 		"3": "block/brown_mushroom_block",
-		"4": "snowwheet",
+		"4": "item/custom/snowwheet",
 		"particle": "block/gold_block"
 	},
 	"elements": [
