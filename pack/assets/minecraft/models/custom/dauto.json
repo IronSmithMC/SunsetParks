@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/custom/gstf/dauto",
-		"particle": "item/custom/gstf/dauto"
+		"0": "item/customdauto",
+		"particle": "item/custom/dauto"
 	},
 	"elements": [
 		{
