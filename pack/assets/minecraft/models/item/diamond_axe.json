@@ -121,7 +121,7 @@
 	{"predicate": {"custom_model_data":113}, "model": "custom/snowwb"},
 	{"predicate": {"custom_model_data":114}, "model": "custom/tikiroom"},
 	{"predicate": {"custom_model_data":115}, "model": "custom/tomorrowland"},
-	{"predicate": {"custom_model_data":116}, "model": "custom/teacup"}
+	{"predicate": {"custom_model_data":116}, "model": "custom/teacupb"}
 		
 				
 ]
