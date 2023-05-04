@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/custom/texture",
-		"particle": "item/custom/texture"
+		"0": "item/custom/purpleear",
+		"particle": "item/custom/purpleear"
 	},
 	"elements": [
 		{
