@@ -35,7 +35,13 @@
 	{"predicate": {"custom_model_data":29}, "model": "custom/food/pretzel"},
 	{"predicate": {"custom_model_data":30}, "model": "custom/food/milkshake"},
 	{"predicate": {"custom_model_data":31}, "model": "custom/milkstraw"},
-	{"predicate": {"custom_model_data":32}, "model": "custom/omelette"}
+	{"predicate": {"custom_model_data":32}, "model": "custom/omelette"},
+	{"predicate": {"custom_model_data":33}, "model": "custom/food/banana"},
+        {"predicate": {"custom_model_data":34}, "model": "custom/food/croissant"},
+	{"predicate": {"custom_model_data":35}, "model": "custom/food/churro"},
+	{"predicate": {"custom_model_data":36}, "model": "custom/food/dolewhipm"},
+	{"predicate": {"custom_model_data":37}, "model": "custom/dolefloat"},
+	{"predicate": {"custom_model_data":38}, "model": "custom/pickle"}
 	
 	]
 }
