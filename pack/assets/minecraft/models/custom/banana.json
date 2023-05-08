@@ -368,6 +368,41 @@
 			}
 		}
 	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, -1.75, 0.5],
+			"scale": [0.69, 0.69, 0.69]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, -2, 0.5],
+			"scale": [0.69, 0.69, 0.69]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -68, 0],
+			"translation": [3.75, -4.25, -0.25],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-8, 114, 0],
+			"translation": [4.75, -4.25, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"gui": {
+			"rotation": [0, -32, 38],
+			"translation": [4.75, -7.75, 0],
+			"scale": [1.39, 1.39, 1.39]
+		},
+		"head": {
+			"rotation": [-59, -15, 0],
+			"translation": [4.5, -18.5, -12],
+			"scale": [0.92, 0.92, 0.92]
+		},
+		"fixed": {
+			"rotation": [0, 146, 2],
+			"translation": [0, -9.75, 0],
+			"scale": [1.49, 1.49, 1.49]
+		}
+	},
 	"groups": [
 		{
 			"name": "nuts",
