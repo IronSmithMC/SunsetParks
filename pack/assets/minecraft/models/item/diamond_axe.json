@@ -131,7 +131,8 @@
 	{"predicate": {"custom_model_data":123}, "model": "custom/balloon"},
 	{"predicate": {"custom_model_data":124}, "model": "custom/huncastlelamp"},
 	{"predicate": {"custom_model_data":125}, "model": "custom/hunfairybanner"},
-	{"predicate": {"custom_model_data":126}, "model": "custom/topflag"}
+	{"predicate": {"custom_model_data":126}, "model": "custom/topflag"},
+	{"predicate": {"custom_model_data":126}, "model": "custom/mshunban"}
 		
 		
 				
