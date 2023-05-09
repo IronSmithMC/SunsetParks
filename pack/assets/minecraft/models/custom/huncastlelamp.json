@@ -1790,8 +1790,8 @@
 	"display": {
 		"head": {
 			"rotation": [0, -92, 0],
-			"translation": [0, 35, 0],
-			"scale": [3.3, 3.3, 3.3]
+			"translation": [0, 21.25, 0],
+			"scale": [3.3, 2.81, 3.3]
 		}
 	},
 	"groups": [
