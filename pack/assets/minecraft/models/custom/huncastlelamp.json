@@ -1787,6 +1787,13 @@
 			}
 		}
 	],
+	"display": {
+		"head": {
+			"rotation": [0, -92, 0],
+			"translation": [0, 35, 0],
+			"scale": [3.3, 3.3, 3.3]
+		}
+	},
 	"groups": [
 		{
 			"name": "bottom left",
