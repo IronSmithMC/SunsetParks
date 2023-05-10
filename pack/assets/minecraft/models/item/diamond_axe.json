@@ -133,7 +133,8 @@
 	{"predicate": {"custom_model_data":125}, "model": "custom/hunfairybanner"},
 	{"predicate": {"custom_model_data":126}, "model": "custom/topflag"},
 	{"predicate": {"custom_model_data":127}, "model": "custom/mshunban"},
-	{"predicate": {"custom_model_data":128}, "model": "custom/balloons"}
+	{"predicate": {"custom_model_data":128}, "model": "custom/balloons"},
+	{"predicate": {"custom_model_data":129}, "model": "custom/ppfsign"}
 		
 		
 				
