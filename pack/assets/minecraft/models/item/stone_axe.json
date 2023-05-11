@@ -7,15 +7,17 @@
 	"overrides":[
 	
 		{"predicate": {"custom_model_data":1}, "model": "custom/sarcophagus/normal"},
-    {"predicate": {"custom_model_data":2}, "model": "custom/sarcophagus/back"},
-    {"predicate": {"custom_model_data":3}, "model": "custom/sarcophagus/front"},
-    {"predicate": {"custom_model_data":4}, "model": "custom/mummy-lamp"},
-    {"predicate": {"custom_model_data":5}, "model": "custom/mummy-gold-light"},
-    {"predicate": {"custom_model_data":6}, "model": "custom/tot/totdoor"},
-    {"predicate": {"custom_model_data":7}, "model": "custom/mirror"},
-    {"predicate": {"custom_model_data":8}, "model": "custom/cauldron"},
-    {"predicate": {"custom_model_data":9}, "model": "custom/swew"},
-    {"predicate": {"custom_model_data":10}, "model": "custom/swewdoorone"},
-    {"predicate": {"custom_model_data":11}, "model": "custom/swewdoortwo"}
+   		{"predicate": {"custom_model_data":2}, "model": "custom/sarcophagus/back"},
+    		{"predicate": {"custom_model_data":3}, "model": "custom/sarcophagus/front"},
+    		{"predicate": {"custom_model_data":4}, "model": "custom/mummy-lamp"},
+    		{"predicate": {"custom_model_data":5}, "model": "custom/mummy-gold-light"},
+    		{"predicate": {"custom_model_data":6}, "model": "custom/tot/totdoor"},
+    		{"predicate": {"custom_model_data":7}, "model": "custom/mirror"},
+    		{"predicate": {"custom_model_data":8}, "model": "custom/cauldron"},
+    		{"predicate": {"custom_model_data":9}, "model": "custom/swew"},
+    		{"predicate": {"custom_model_data":10}, "model": "custom/swewdoorone"},
+    		{"predicate": {"custom_model_data":11}, "model": "custom/swewdoortwo"},
+    		{"predicate": {"custom_model_data":12}, "model": "custom/mirrortwo"},
+		{"predicate": {"custom_model_data":13}, "model": "custom/mirrorthree"}
 	]
 }

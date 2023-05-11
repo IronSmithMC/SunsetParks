@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "dauto",
-		"particle": "dauto"
+		"0": "item/custom/hollyauto",
+		"particle": "item/custom/hollyauto"
 	},
 	"elements": [
 		{
