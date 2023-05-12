@@ -136,7 +136,8 @@
 	{"predicate": {"custom_model_data":128}, "model": "custom/balloons"},
 	{"predicate": {"custom_model_data":129}, "model": "custom/ppfsign"},
 	{"predicate": {"custom_model_data":130}, "model": "custom/fantrash"},
-	{"predicate": {"custom_model_data":131}, "model": "custom/firetruck"}
+	{"predicate": {"custom_model_data":131}, "model": "custom/firetruck"},
+	{"predicate": {"custom_model_data":132}, "model": "custom/paradetest"}
 		
 		
 				
