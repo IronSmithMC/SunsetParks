@@ -138,7 +138,8 @@
 	{"predicate": {"custom_model_data":130}, "model": "custom/fantrash"},
 	{"predicate": {"custom_model_data":131}, "model": "custom/firetruck"},
 	{"predicate": {"custom_model_data":132}, "model": "custom/paradetest"},
-	{"predicate": {"custom_model_data":133}, "model": "custom/msbench"}
+	{"predicate": {"custom_model_data":133}, "model": "custom/msbench"},
+	{"predicate": {"custom_model_data":134}, "model": "custom/snowbook"}
 		
 		
 				
