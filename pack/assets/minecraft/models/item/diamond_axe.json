@@ -140,7 +140,8 @@
 	{"predicate": {"custom_model_data":132}, "model": "custom/paradetest"},
 	{"predicate": {"custom_model_data":133}, "model": "custom/msbench"},
 	{"predicate": {"custom_model_data":134}, "model": "custom/snowbook"},
-	{"predicate": {"custom_model_data":135}, "model": "custom/baymax"}
+	{"predicate": {"custom_model_data":135}, "model": "custom/baymax"},
+	{"predicate": {"custom_model_data":136}, "model": "custom/bluefairy"}
 		
 		
 				
