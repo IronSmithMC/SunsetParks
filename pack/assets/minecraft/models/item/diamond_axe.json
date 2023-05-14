@@ -141,7 +141,9 @@
 	{"predicate": {"custom_model_data":133}, "model": "custom/msbench"},
 	{"predicate": {"custom_model_data":134}, "model": "custom/snowbook"},
 	{"predicate": {"custom_model_data":135}, "model": "custom/baymax"},
-	{"predicate": {"custom_model_data":136}, "model": "custom/bluefairy"}
+	{"predicate": {"custom_model_data":136}, "model": "custom/bluefairy"},
+	{"predicate": {"custom_model_data":137}, "model": "custom/snowcasket"},
+	{"predicate": {"custom_model_data":138}, "model": "custom/snowdress"}
 		
 		
 				
