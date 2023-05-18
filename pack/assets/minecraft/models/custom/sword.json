@@ -2,7 +2,7 @@
 	"credit": "Made by Ultr4Anubis",
 	"textures": {
 		"1": "block/barrel_top_open",
-		"2": "block/chest"
+		"2": "block/yellow_terracotta"
 	},
 	"elements": [
 		{
