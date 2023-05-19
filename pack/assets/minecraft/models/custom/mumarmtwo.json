@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "mumarm",
-		"particle": "mumarm"
+		"0": "item/custom/mumarm",
+		"particle": "item/custom/mumarm"
 	},
 	"elements": [
 		{
