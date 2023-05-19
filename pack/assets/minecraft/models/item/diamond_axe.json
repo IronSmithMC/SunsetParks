@@ -143,7 +143,7 @@
 	{"predicate": {"custom_model_data":135}, "model": "custom/baymax"},
 	{"predicate": {"custom_model_data":136}, "model": "custom/bluefairy"},
 	{"predicate": {"custom_model_data":137}, "model": "custom/snowcasket"},
-	{"predicate": {"custom_model_data":138}, "model": "custom/snowdress"}
+	{"predicate": {"custom_model_data":138}, "model": "custom/snowdress"},
 	{"predicate": {"custom_model_data":139}, "model": "custom/sword"},
 	{"predicate": {"custom_model_data":140}, "model": "custom/large_vase"},
 	{"predicate": {"custom_model_data":141}, "model": "custom/small_pot_1"}
