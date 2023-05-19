@@ -147,7 +147,8 @@
 	{"predicate": {"custom_model_data":139}, "model": "custom/sword"},
 	{"predicate": {"custom_model_data":140}, "model": "custom/large_vase"},
 	{"predicate": {"custom_model_data":141}, "model": "custom/small_pot_1"},
-	{"predicate": {"custom_model_data":142}, "model": "custom/mumarm"}
+	{"predicate": {"custom_model_data":142}, "model": "custom/mumarm"},
+	{"predicate": {"custom_model_data":143}, "model": "custom/mumarmtwo"}
 		
 		
 				
