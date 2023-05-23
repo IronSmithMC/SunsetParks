@@ -154,7 +154,8 @@
 	{"predicate": {"custom_model_data":146}, "model": "custom/surfpridef"},
 	{"predicate": {"custom_model_data":147}, "model": "custom/cowsquish"},
 	{"predicate": {"custom_model_data":148}, "model": "custom/mumrawr"},
-	{"predicate": {"custom_model_data":149}, "model": "custom/broom"}
+	{"predicate": {"custom_model_data":149}, "model": "custom/broom"},
+	{"predicate": {"custom_model_data":150}, "model": "custom/construction"}
 		
 		
 		
