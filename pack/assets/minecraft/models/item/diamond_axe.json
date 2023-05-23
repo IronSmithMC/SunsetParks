@@ -156,8 +156,8 @@
 	{"predicate": {"custom_model_data":148}, "model": "custom/mumrawr"},
 	{"predicate": {"custom_model_data":149}, "model": "custom/broom"},
 	{"predicate": {"custom_model_data":150}, "model": "custom/construction"},
-	{"predicate": {"custom_model_data":151}, "model": "custom/linkarm"},
-	{"predicate": {"custom_model_data":152}, "model": "custom/linkone"}
+	{"predicate": {"custom_model_data":151}, "model": "custom/lincarm"},
+	{"predicate": {"custom_model_data":152}, "model": "custom/lincone"}
 		
 		
 		
