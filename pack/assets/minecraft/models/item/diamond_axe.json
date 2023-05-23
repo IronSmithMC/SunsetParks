@@ -157,7 +157,7 @@
 	{"predicate": {"custom_model_data":149}, "model": "custom/broom"},
 	{"predicate": {"custom_model_data":150}, "model": "custom/construction"},
 	{"predicate": {"custom_model_data":151}, "model": "custom/lincarm"},
-	{"predicate": {"custom_model_data":152}, "model": "custom/lincone"}
+	{"predicate": {"custom_model_data":152}, "model": "custom/lincarmone"}
 		
 		
 		
