@@ -158,6 +158,16 @@
 	{"predicate": {"custom_model_data":150}, "model": "custom/construction"},
 	{"predicate": {"custom_model_data":151}, "model": "custom/lincarm"},
 	{"predicate": {"custom_model_data":152}, "model": "custom/lincarmone"}
+	{"predicate": {"custom_model_data":153}, "model": "custom/castmember"},
+	{"predicate": {"custom_model_data":154}, "model": "custom/dinohat"},
+	{"predicate": {"custom_model_data":155}, "model": "custom/sharkhat"},
+	{"predicate": {"custom_model_data":156}, "model": "custom/dumboears"},
+	{"predicate": {"custom_model_data":157}, "model": "custom/pinocchioears"},
+	{"predicate": {"custom_model_data":158}, "model": "custom/totmickey"},
+	{"predicate": {"custom_model_data":159}, "model": "custom/tothat"},
+	{"predicate": {"custom_model_data":160}, "model": "custom/tothead"}
+
+
 		
 		
 		
