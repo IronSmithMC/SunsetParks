@@ -144,8 +144,29 @@
 	{"predicate": {"custom_model_data":136}, "model": "custom/bluefairy"},
 	{"predicate": {"custom_model_data":137}, "model": "custom/snowcasket"},
 	{"predicate": {"custom_model_data":138}, "model": "custom/snowdress"},
-	{"predicate": {"custom_model_data":139}, "model": "custom/lucky-block"}
-		
+	{"predicate": {"custom_model_data":139}, "model": "custom/sword"},
+	{"predicate": {"custom_model_data":140}, "model": "custom/large_vase"},
+	{"predicate": {"custom_model_data":141}, "model": "custom/small_pot_1"},
+	{"predicate": {"custom_model_data":142}, "model": "custom/mumarm"},
+	{"predicate": {"custom_model_data":143}, "model": "custom/mumarmtwo"},
+	{"predicate": {"custom_model_data":144}, "model": "custom/kneelinganubis"},
+	{"predicate": {"custom_model_data":145}, "model": "custom/blue"},
+	{"predicate": {"custom_model_data":146}, "model": "custom/surfpridef"},
+	{"predicate": {"custom_model_data":147}, "model": "custom/cowsquish"},
+	{"predicate": {"custom_model_data":148}, "model": "custom/mumrawr"},
+	{"predicate": {"custom_model_data":149}, "model": "custom/broom"},
+	{"predicate": {"custom_model_data":150}, "model": "custom/construction"},
+	{"predicate": {"custom_model_data":151}, "model": "custom/lincarm"},
+	{"predicate": {"custom_model_data":152}, "model": "custom/lincarmone"},
+	{"predicate": {"custom_model_data":153}, "model": "custom/castmember"},
+	{"predicate": {"custom_model_data":154}, "model": "custom/dinohat"},
+	{"predicate": {"custom_model_data":155}, "model": "custom/sharkhat"},
+	{"predicate": {"custom_model_data":156}, "model": "custom/dumboears"},
+	{"predicate": {"custom_model_data":157}, "model": "custom/pinocchioears"},
+	{"predicate": {"custom_model_data":158}, "model": "custom/totmickey"},
+	{"predicate": {"custom_model_data":159}, "model": "custom/tothat"},
+	{"predicate": {"custom_model_data":160}, "model": "custom/tothead"}
+	{"predicate": {"custom_model_data":161}, "model": "custom/lucky-block"}
 		
 				
 ]
