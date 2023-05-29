@@ -166,6 +166,7 @@
 	{"predicate": {"custom_model_data":158}, "model": "custom/totmickey"},
 	{"predicate": {"custom_model_data":159}, "model": "custom/tothat"},
 	{"predicate": {"custom_model_data":160}, "model": "custom/tothead"},
-	{"predicate": {"custom_model_data":161}, "model": "custom/lucky-block"}
+	{"predicate": {"custom_model_data":161}, "model": "custom/lucky-block"},
+	{"predicate": {"custom_model_data":162}, "model": "custom/sdminecart"}
 ]
 }
