@@ -165,9 +165,7 @@
 	{"predicate": {"custom_model_data":157}, "model": "custom/pinocchioears"},
 	{"predicate": {"custom_model_data":158}, "model": "custom/totmickey"},
 	{"predicate": {"custom_model_data":159}, "model": "custom/tothat"},
-	{"predicate": {"custom_model_data":160}, "model": "custom/tothead"}
+	{"predicate": {"custom_model_data":160}, "model": "custom/tothead"},
 	{"predicate": {"custom_model_data":161}, "model": "custom/lucky-block"}
-		
-				
 ]
 }
