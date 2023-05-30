@@ -140,7 +140,7 @@
             "file": "gui/custom/warps.png",
             "ascent": 13,
             "height": 17,
-            "chars": ["\u8283"]
+            "chars": ["\u8666"]
         },
         {
             "type": "bitmap",
