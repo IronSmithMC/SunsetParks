@@ -1,12 +1,12 @@
 {
 	"__comment": "Designed for the sunset parks Server with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/e_particle",
-		"lapis_block": "blocks/lapis_block",
-		"wool_lime": "blocks/wool_colored_lime",
-		"quartz_block_top": "blocks/quartz_block_top",
-		"coal_block": "blocks/coal_block",
-		"orange_wool": "blocks/wool_colored_orange"
+		"particle": "block/e_particle",
+		"lapis_block": "block/lapis_block",
+		"wool_lime": "block/wool_colored_lime",
+		"quartz_block_top": "block/quartz_block_top",
+		"coal_block": "block/coal_block",
+		"orange_wool": "block/wool_colored_orange"
 	},
 	"elements": [ 	 
 		{
