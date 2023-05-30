@@ -183,7 +183,9 @@
 	{"predicate": {"custom_model_data":176}, "model": "custom/matterhorn_yeti"},
 	{"predicate": {"custom_model_data":177}, "model": "custom/xwing"},
 	{"predicate": {"custom_model_data":178}, "model": "custom/tie_fighter"},
-	{"predicate": {"custom_model_data":179}, "model": "custom/buzzeh"}
+	{"predicate": {"custom_model_data":179}, "model": "custom/buzzeh"},
+	{"predicate": {"custom_model_data":180}, "model": "custom/pinktea"},
+	{"predicate": {"custom_model_data":181}, "model": "custom/yellowtea"}
 		
 		
 ]
