@@ -185,8 +185,8 @@
 	{"predicate": {"custom_model_data":178}, "model": "custom/tie_fighter"},
 	{"predicate": {"custom_model_data":179}, "model": "custom/buzzeh"},
 	{"predicate": {"custom_model_data":180}, "model": "custom/pinktea"},
-	{"predicate": {"custom_model_data":181}, "model": "custom/yellowtea"}
-		
+	{"predicate": {"custom_model_data":181}, "model": "custom/yellowtea"},
+	{"predicate": {"custom_model_data":182}, "model": "custom/astropole"}	
 		
 ]
 }
