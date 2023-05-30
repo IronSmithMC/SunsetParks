@@ -5,7 +5,7 @@
 		"quartz_block_top": "block/quartz_block_top",
 		"shulker_blue": "block/shulker_top_red",
 		"obsidian": "block/obsidian",
-		"wool_colored_silver": "block/wool_colored_silver"
+		"wool_colored_silver": "block/light_gray_wool"
 	},
 	"elements": [ 	 
 		{
