@@ -167,6 +167,13 @@
 	{"predicate": {"custom_model_data":159}, "model": "custom/tothat"},
 	{"predicate": {"custom_model_data":160}, "model": "custom/tothead"},
 	{"predicate": {"custom_model_data":161}, "model": "custom/lucky-block"},
-	{"predicate": {"custom_model_data":162}, "model": "custom/sdminecart"}
+	{"predicate": {"custom_model_data":162}, "model": "custom/sdminecart"},
+	{"predicate": {"custom_model_data":163}, "model": "custom/horsie"},
+	{"predicate": {"custom_model_data":164}, "model": "custom/buzzwings"},
+	{"predicate": {"custom_model_data":165}, "model": "custom/grogu"},
+	{"predicate": {"custom_model_data":166}, "model": "custom/prideg"},
+	{"predicate": {"custom_model_data":167}, "model": "custom/pridebp"},
+	{"predicate": {"custom_model_data":168}, "model": "custom/astrogun"}
+		
 ]
 }
