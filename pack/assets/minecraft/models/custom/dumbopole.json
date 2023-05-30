@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "texture/dumbpole",
-		"particle": "texture/dumbpole"
+		"0": "item/custom/dumbpole",
+		"particle": "item/custom/dumbpole"
 	},
 	"elements": [
 		{
