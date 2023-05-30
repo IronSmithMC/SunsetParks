@@ -1,18 +1,18 @@
 {
 	"credit": "Made for the MCMagic Server with Blockbench",
 	"textures": {
-		"hardened_grey": "blocks/hardened_clay_stained_cyan",
-		"wool_lime": "blocks/wool_colored_lime",
-		"wool_blue": "blocks/wool_colored_blue",
-		"quartz": "blocks/quartz_block_bottom",
-		"wool_orange": "blocks/wool_colored_orange",
-		"shulker_blue": "blocks/shulker_top_blue",
-		"lapis": "blocks/lapis_block",
-		"wool_yellow": "blocks/wool_colored_yellow",
-		"hardened_clay_black": "blocks/hardened_clay_stained_black",
-		"redstone_block": "blocks/redstone_block",
-		"coal_block": "blocks/coal_block",
-		"particle": "blocks/e_particle"
+		"hardened_grey": "block/cyan_terracotta",
+		"wool_lime": "block/lime_wool",
+		"wool_blue": "block/blue_wool",
+		"quartz": "block/quartz_block_bottom",
+		"wool_orange": "block/wool_colored_orange",
+		"shulker_blue": "block/shulker_top_blue",
+		"lapis": "block/lapis_block",
+		"wool_yellow": "block/wool_colored_yellow",
+		"hardened_clay_black": "block/hardened_clay_stained_black",
+		"redstone_block": "block/redstone_block",
+		"coal_block": "block/coal_block",
+		"particle": "block/e_particle"
 	},
 	"elements": [
 		{
