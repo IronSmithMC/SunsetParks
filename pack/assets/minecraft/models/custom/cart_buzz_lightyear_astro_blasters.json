@@ -5,11 +5,11 @@
 		"wool_lime": "block/lime_wool",
 		"wool_blue": "block/blue_wool",
 		"quartz": "block/quartz_block_bottom",
-		"wool_orange": "block/wool_colored_orange",
+		"wool_orange": "block/orange_wool",
 		"shulker_blue": "block/shulker_top_blue",
 		"lapis": "block/lapis_block",
 		"wool_yellow": "block/wool_colored_yellow",
-		"hardened_clay_black": "block/hardened_clay_stained_black",
+		"hardened_clay_black": "block/black_terracotta",
 		"redstone_block": "block/redstone_block",
 		"coal_block": "block/coal_block",
 		"particle": "block/e_particle"
