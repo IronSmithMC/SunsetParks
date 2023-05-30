@@ -1,17 +1,17 @@
 {
 	"__comment": "Designed for the Sunset Parks Server with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/e_particle",
-		"hardened_clay_black": "blocks/hardened_clay_stained_black",
-		"hardened_clay_red": "blocks/hardened_clay_stained_red",
-		"hardened_clay_green": "blocks/hardened_clay_stained_green",
-		"hardened_clay_limegreen": "blocks/hardened_clay_stained_lime",
-		"hardened_clay_yellow": "blocks/hardened_clay_stained_yellow",
-		"hardened_clay_orange": "blocks/hardened_clay_stained_orange",
-		"hardened_clay_white": "blocks/hardened_clay_stained_white",
-		"redstone_block": "blocks/redstone_block",
-		"lapis_block": "blocks/lapis_block",
-		"glowstone": "blocks/glowstone"
+		"particle": "block/e_particle",
+		"hardened_clay_black": "block/hardened_clay_stained_black",
+		"hardened_clay_red": "block/hardened_clay_stained_red",
+		"hardened_clay_green": "block/hardened_clay_stained_green",
+		"hardened_clay_limegreen": "block/hardened_clay_stained_lime",
+		"hardened_clay_yellow": "block/hardened_clay_stained_yellow",
+		"hardened_clay_orange": "block/hardened_clay_stained_orange",
+		"hardened_clay_white": "block/hardened_clay_stained_white",
+		"redstone_block": "block/redstone_block",
+		"lapis_block": "block/lapis_block",
+		"glowstone": "block/glowstone"
 	},
 	"elements": [ 	 
 		{
