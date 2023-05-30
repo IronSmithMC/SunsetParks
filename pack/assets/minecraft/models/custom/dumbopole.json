@@ -287,7 +287,9 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"scale": [4, 4, 4]
+			"rotation": [-76, -93, -55],
+			"translation": [-11, 27.75, 80],
+			"scale": [3.18, 3.18, 3.18]
 		},
 		"gui": {
 			"scale": [0.3, 0.3, 0.3]
