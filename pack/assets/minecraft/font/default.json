@@ -140,14 +140,14 @@
             "file": "gui/custom/warps.png",
             "ascent": 13,
             "height": 17,
-            "chars": ["\u8666"]
+            "chars": ["\u8283"]
         },
         {
             "type": "bitmap",
             "file": "gui/custom/pridegui.png",
             "ascent": 13,
             "height": 19,
-            "chars": ["\u8284"]
+            "chars": ["\u8288"]
         }
         
     ]
