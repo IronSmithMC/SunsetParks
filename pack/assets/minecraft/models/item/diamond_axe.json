@@ -173,7 +173,8 @@
 	{"predicate": {"custom_model_data":165}, "model": "custom/grogu"},
 	{"predicate": {"custom_model_data":166}, "model": "custom/prideg"},
 	{"predicate": {"custom_model_data":167}, "model": "custom/pridebp"},
-	{"predicate": {"custom_model_data":168}, "model": "custom/astrogun"}
+	{"predicate": {"custom_model_data":168}, "model": "custom/astrogun"},
+	{"predicate": {"custom_model_data":169}, "model": "custom/prideflag"}
 		
 ]
 }
