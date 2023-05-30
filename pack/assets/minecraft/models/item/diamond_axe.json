@@ -181,11 +181,10 @@
 	{"predicate": {"custom_model_data":173}, "model": "custom/cart_buzz_lightyear_astro_blasters"},
 	{"predicate": {"custom_model_data":174}, "model": "custom/cart_king_arthurs_carousel"},
 	{"predicate": {"custom_model_data":175}, "model": "custom/buzz_lightyear_wings"},
-	{"predicate": {"custom_model_data":176}, "model": "custom/cart_mad_hatter_teacups"},
-	{"predicate": {"custom_model_data":177}, "model": "custom/cart_matterhorn_bobsled"},
-	{"predicate": {"custom_model_data":178}, "model": "custom/matterhorn_yeti"},
-	{"predicate": {"custom_model_data":179}, "model": "custom/xwing"},
-	{"predicate": {"custom_model_data":180}, "model": "custom/tie_fighter"}
+	{"predicate": {"custom_model_data":176}, "model": "custom/cart_matterhorn_bobsled"},
+	{"predicate": {"custom_model_data":177}, "model": "custom/matterhorn_yeti"},
+	{"predicate": {"custom_model_data":178}, "model": "custom/xwing"},
+	{"predicate": {"custom_model_data":179}, "model": "custom/tie_fighter"}
 		
 		
 ]
