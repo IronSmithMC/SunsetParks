@@ -3,10 +3,10 @@
 	"textures": {
 		"particle": "block/e_particle",
 		"lapis_block": "block/lapis_block",
-		"wool_lime": "block/wool_colored_lime",
+		"wool_lime": "block/lime_wool",
 		"quartz_block_top": "block/quartz_block_top",
 		"coal_block": "block/coal_block",
-		"orange_wool": "block/wool_colored_orange"
+		"orange_wool": "block/orange_wool"
 	},
 	"elements": [ 	 
 		{
