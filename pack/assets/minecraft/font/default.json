@@ -146,7 +146,7 @@
             "type": "bitmap",
             "file": "gui/custom/pridegui.png",
             "ascent": 13,
-            "height": 19,
+            "height": 17,
             "chars": ["\u8288"]
         }
         
