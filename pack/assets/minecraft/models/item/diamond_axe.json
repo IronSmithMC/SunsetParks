@@ -182,7 +182,8 @@
 	{"predicate": {"custom_model_data":175}, "model": "custom/cart_matterhorn_bobsleds"},
 	{"predicate": {"custom_model_data":176}, "model": "custom/matterhorn_yeti"},
 	{"predicate": {"custom_model_data":177}, "model": "custom/xwing"},
-	{"predicate": {"custom_model_data":178}, "model": "custom/tie_fighter"}
+	{"predicate": {"custom_model_data":178}, "model": "custom/tie_fighter"},
+	{"predicate": {"custom_model_data":179}, "model": "custom/buzzeh"}
 		
 		
 ]
