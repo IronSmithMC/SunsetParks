@@ -3,11 +3,11 @@
 	"textures": {
 		"particle": "block/e_particle",
 		"stone_andesite": "block/andesite",
-		"hardened_clay_yellow": "block/hardened_clay_stained_yellow",
-		"hardened_clay_red": "block/hardened_clay_stained_red",
-		"hardened_clay_cyan": "block/hardened_clay_stained_cyan",
+		"hardened_clay_yellow": "block/yellow_terracotta",
+		"hardened_clay_red": "block/red_terracotta",
+		"hardened_clay_cyan": "block/cyan_terracotta",
 		"coal_block": "block/coal_block",
-		"hardened_clay_blue": "block/hardened_clay_stained_blue"
+		"hardened_clay_blue": "block/blue_terracotta"
 	},
 	"elements": [ 	 
 		{
