@@ -1,13 +1,13 @@
 {
 	"__comment": "Designed for the MCMagic Server with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/e_particle",
-		"hardened_clay_stained_megenta": "blocks/hardened_clay_stained_magenta",
-		"hardened_clay_stained_white": "blocks/hardened_clay_stained_white",
+		"particle": "block/e_particle",
+		"hardened_clay_stained_megenta": "block/hardened_clay_stained_magenta",
+		"hardened_clay_stained_white": "block/hardened_clay_stained_white",
 		"hardened_clay_stained_lightgrey": "blocks/hardened_clay_stained_silver",
-		"coal_block": "blocks/coal_block",
-		"quartz_block_top": "blocks/quartz_block_top",
-		"hardened_clay_stained_blue": "blocks/hardened_clay_stained_blue"
+		"coal_block": "block/coal_block",
+		"quartz_block_top": "block/quartz_block_top",
+		"hardened_clay_stained_blue": "block/hardened_clay_stained_blue"
 	},
 	"elements": [ 	 
 		{
