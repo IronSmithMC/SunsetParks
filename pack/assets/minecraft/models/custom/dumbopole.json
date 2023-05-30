@@ -285,6 +285,17 @@
 			}
 		}
 	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [4, 4, 4]
+		},
+		"gui": {
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"head": {
+			"scale": [4, 4, 4]
+		}
+	},
 	"groups": [
 		{
 			"name": "hexadecagon",
