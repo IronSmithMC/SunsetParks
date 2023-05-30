@@ -2,7 +2,7 @@
 	"__comment": "Designed for the MCMagic Server with Cubik Studio - https://cubik.studio",
 	"textures": {
 		"particle": "block/e_particle",
-		"quartz_block_top": "block/quartz_block",
+		"quartz_block_top": "block/snow_block",
 		"shulker_blue": "block/red_concrete",
 		"obsidian": "block/obsidian",
 		"wool_colored_silver": "block/light_gray_wool"
