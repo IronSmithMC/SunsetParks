@@ -1,13 +1,13 @@
 {
 	"__comment": "Designed for the MCMagic Server with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/e_particle",
-		"stone_andesite": "blocks/stone_andesite_smooth",
-		"hardened_clay_yellow": "blocks/hardened_clay_stained_yellow",
-		"hardened_clay_red": "blocks/hardened_clay_stained_red",
-		"hardened_clay_cyan": "blocks/hardened_clay_stained_cyan",
-		"coal_block": "blocks/coal_block",
-		"hardened_clay_blue": "blocks/hardened_clay_stained_blue"
+		"particle": "block/e_particle",
+		"stone_andesite": "block/andesite",
+		"hardened_clay_yellow": "block/yellow_terracotta",
+		"hardened_clay_red": "block/red_terracotta",
+		"hardened_clay_cyan": "block/cyan_terracotta",
+		"coal_block": "block/coal_block",
+		"hardened_clay_blue": "block/blue_terracotta"
 	},
 	"elements": [ 	 
 		{
