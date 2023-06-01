@@ -195,7 +195,7 @@
 	{"predicate": {"custom_model_data":188}, "model": "custom/thankyoustaff"},
 	{"predicate": {"custom_model_data":189}, "model": "custom/happypridemonth"},
 	{"predicate": {"custom_model_data":190}, "model": "custom/prideposter"},
-	{"predicate": {"custom_model_data":190}, "model": "custom/castmember"}	
+	{"predicate": {"custom_model_data":191}, "model": "custom/castmember"}	
 	
 		
 ]
