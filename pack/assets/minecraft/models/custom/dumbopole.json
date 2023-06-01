@@ -295,6 +295,8 @@
 			"scale": [0.3, 0.3, 0.3]
 		},
 		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [-80, 0, -3.25],
 			"scale": [4, 4, 4]
 		}
 	},
@@ -303,14 +305,12 @@
 			"name": "hexadecagon",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8]
 		},
 		{
 			"name": "hexadecagon",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
 			"children": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
 		}
 	]
