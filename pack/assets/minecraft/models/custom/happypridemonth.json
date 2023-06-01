@@ -45,7 +45,7 @@
 			"translation": [-0.75, 0, 1]
 		},
 		"fixed": {
-			"translation": [19.25, 19.25, 23.75],
+			"translation": [16, 16.25, 23.75],
 			"scale": [4, 4, 4]
 		}
 	}
