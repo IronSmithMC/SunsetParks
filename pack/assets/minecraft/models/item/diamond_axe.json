@@ -192,7 +192,8 @@
 	{"predicate": {"custom_model_data":185}, "model": "custom/trolley"},
 	{"predicate": {"custom_model_data":186}, "model": "custom/mkbench"},
 	{"predicate": {"custom_model_data":187}, "model": "custom/mummy"},
-	{"predicate": {"custom_model_data":188}, "model": "custom/thankyoustaff"}
+	{"predicate": {"custom_model_data":188}, "model": "custom/thankyoustaff"},
+	{"predicate": {"custom_model_data":189}, "model": "custom/happypridemonth"}
 	
 		
 ]
