@@ -193,7 +193,8 @@
 	{"predicate": {"custom_model_data":186}, "model": "custom/mkbench"},
 	{"predicate": {"custom_model_data":187}, "model": "custom/mummy"},
 	{"predicate": {"custom_model_data":188}, "model": "custom/thankyoustaff"},
-	{"predicate": {"custom_model_data":189}, "model": "custom/happypridemonth"}
+	{"predicate": {"custom_model_data":189}, "model": "custom/happypridemonth"},
+	{"predicate": {"custom_model_data":190}, "model": "custom/prideposter"}
 	
 		
 ]
