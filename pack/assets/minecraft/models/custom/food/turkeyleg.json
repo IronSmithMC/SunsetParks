@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/custom/food/turkeyleg",
-		"particle": "item/custom/food/turkeyleg"
+		"0": "item/custom/turkeyleg",
+		"particle": "item/custom/turkeyleg"
 	},
 	"elements": [
 		{
