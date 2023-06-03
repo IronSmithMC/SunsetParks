@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "firstvisit",
-		"particle": "firstvisit"
+		"0": "item/custom/firstvisit",
+		"particle": "item/custom/firstvisit"
 	},
 	"elements": [
 		{
