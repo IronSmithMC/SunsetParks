@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/custom/castmember",
-		"particle": "item/custom/castmember"
+		"0": "item/custom/castmemberj",
+		"particle": "item/custom/castmemberj"
 	},
 	"elements": [
 		{
@@ -51,7 +51,7 @@
 			"scale": [0.58, 0.58, 0.58]
 		},
 		"fixed": {
-			"translation": [-0.75, 0.75, -2.25]
+			"translation": [-1.25, 0.75, -2.25]
 		}
 	}
 }

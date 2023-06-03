@@ -141,6 +141,27 @@
             "ascent": 13,
             "height": 17,
             "chars": ["\u8283"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/custom/pridegui.png",
+            "ascent": 13,
+            "height": 17,
+            "chars": ["\u8288"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/custom/fruitstand.png",
+            "ascent": 13,
+            "height": 17,
+            "chars": ["\u8189"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/custom/buttonvender.png",
+            "ascent": 13,
+            "height": 17,
+            "chars": ["\u8733"]
         }
         
     ]
