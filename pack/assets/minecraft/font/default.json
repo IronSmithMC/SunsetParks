@@ -158,7 +158,7 @@
         },
         {
             "type": "bitmap",
-            "file": "gui/custom/buttonvender.png",
+            "file": "gui/custom/buttonvendor.png",
             "ascent": 13,
             "height": 17,
             "chars": ["\u8733"]
