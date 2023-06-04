@@ -6,7 +6,7 @@
 	
 	"overrides":[
 	
-		{"predicate": {"custom_model_data":1}, "model": "custom/food/item-food-coffee"},
+	{"predicate": {"custom_model_data":1}, "model": "custom/food/item-food-coffee"},
         {"predicate": {"custom_model_data":4}, "model": "custom/food/item-food-burger"},
         {"predicate": {"custom_model_data":5}, "model": "custom/food/item-food-popcorn"},
         {"predicate": {"custom_model_data":6}, "model": "custom/food/item-food-hotdog"},
