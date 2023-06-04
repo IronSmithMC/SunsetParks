@@ -202,7 +202,8 @@
 	{"predicate": {"custom_model_data":195}, "model": "custom/matterhorn"},
 	{"predicate": {"custom_model_data":196}, "model": "custom/gembarrel"},
 	{"predicate": {"custom_model_data":197}, "model": "custom/gembox"},
-	{"predicate": {"custom_model_data":198}, "model": "custom/diamondeyes"}
+	{"predicate": {"custom_model_data":198}, "model": "custom/diamondeyes"},
+	{"predicate": {"custom_model_data":198}, "model": "custom/pickaxe"}
 	
 	
 		
