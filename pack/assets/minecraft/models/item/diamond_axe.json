@@ -38,7 +38,7 @@
 	{"predicate": {"custom_model_data":30}, "model": "custom/bunny"},
 	{"predicate": {"custom_model_data":31}, "model": "custom/micears"},
 	{"predicate": {"custom_model_data":32}, "model": "custom/minbow"},
-	{"predicate": {"custom_model_data":33}, "model": "custom/tinkarm"},
+	{"predicate": {"custom_model_data":33}, "model": "custom/caseyp"},
 	{"predicate": {"custom_model_data":34}, "model": "custom/rightarm"},
 	{"predicate": {"custom_model_data":35}, "model": "custom/pinkheadb"},
 	{"predicate": {"custom_model_data":36}, "model": "custom/swheadb"},
