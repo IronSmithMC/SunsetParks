@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"2": "texture/chalkboard",
+		"2": "item/custom/chalkboard",
 		"3": "block/stripped_spruce_log"
 	},
 	"elements": [
