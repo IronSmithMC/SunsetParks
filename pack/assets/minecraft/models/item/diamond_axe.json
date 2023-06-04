@@ -205,7 +205,8 @@
 	{"predicate": {"custom_model_data":198}, "model": "custom/diamondeyes"},
 	{"predicate": {"custom_model_data":199}, "model": "custom/pickaxe"},
 	{"predicate": {"custom_model_data":200}, "model": "custom/pickaxearm"},
-	{"predicate": {"custom_model_data":201}, "model": "custom/chalkboard"}
+	{"predicate": {"custom_model_data":201}, "model": "custom/chalkboard"},
+	{"predicate": {"custom_model_data":202}, "model": "custom/dopey"}
 	
 	
 		
