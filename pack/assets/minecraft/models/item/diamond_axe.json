@@ -207,7 +207,10 @@
 	{"predicate": {"custom_model_data":200}, "model": "custom/pickaxearm"},
 	{"predicate": {"custom_model_data":201}, "model": "custom/chalkboard"},
 	{"predicate": {"custom_model_data":202}, "model": "custom/dopey"},
-	{"predicate": {"custom_model_data":203}, "model": "custom/gemarm"}	
+	{"predicate": {"custom_model_data":203}, "model": "custom/gemarm"},
+	{"predicate": {"custom_model_data":204}, "model": "custom/fourthears"},
+	{"predicate": {"custom_model_data":205}, "model": "custom/gradears"},
+	{"predicate": {"custom_model_data":206}, "model": "custom/gradmickey"}	
 	
 	
 		
