@@ -1356,7 +1356,7 @@
 	],
 	"display": {
 		"head": {
-			"translation": [19.75, -24, 7],
+			"translation": [19.75, 12.5, 7],
 			"scale": [2.45, 2.45, 2.45]
 		}
 	}
