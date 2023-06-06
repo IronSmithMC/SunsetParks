@@ -213,7 +213,8 @@
 	{"predicate": {"custom_model_data":206}, "model": "custom/gradmickey"},
 	{"predicate": {"custom_model_data":207}, "model": "custom/micgrad"},
 	{"predicate": {"custom_model_data":208}, "model": "custom/bobsled"},
-	{"predicate": {"custom_model_data":209}, "model": "custom/sleepy"}
+	{"predicate": {"custom_model_data":209}, "model": "custom/dwarfbox"},
+	{"predicate": {"custom_model_data":210}, "model": "custom/dwarfrope"}
 	
 	
 		
