@@ -216,7 +216,7 @@
 	{"predicate": {"custom_model_data":209}, "model": "custom/barnone"},
 	{"predicate": {"custom_model_data":210}, "model": "custom/barntwo"},
 	{"predicate": {"custom_model_data":211}, "model": "custom/barnthree"},
-	{"predicate": {"custom_model_data":211}, "model": "custom/barnfour"}
+	{"predicate": {"custom_model_data":212}, "model": "custom/barnfour"}
 	
 	
 		
