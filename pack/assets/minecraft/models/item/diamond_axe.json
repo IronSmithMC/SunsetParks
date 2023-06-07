@@ -186,8 +186,8 @@
 	{"predicate": {"custom_model_data":179}, "model": "custom/buzzeh"},
 	{"predicate": {"custom_model_data":180}, "model": "custom/pinktea"},
 	{"predicate": {"custom_model_data":181}, "model": "custom/yellowtea"},
-	{"predicate": {"custom_model_data":182}, "model": "custom/astropole"},	
-	{"predicate": {"custom_model_data":183}, "model": "custom/dumbopole"},
+	{"predicate": {"custom_model_data":182}, "model": "custom/dwarfbox"},	
+	{"predicate": {"custom_model_data":183}, "model": "custom/dwarfrope"},
 	{"predicate": {"custom_model_data":184}, "model": "custom/msmktrash"},
 	{"predicate": {"custom_model_data":185}, "model": "custom/trolley"},
 	{"predicate": {"custom_model_data":186}, "model": "custom/mkbench"},
@@ -213,8 +213,9 @@
 	{"predicate": {"custom_model_data":206}, "model": "custom/gradmickey"},
 	{"predicate": {"custom_model_data":207}, "model": "custom/micgrad"},
 	{"predicate": {"custom_model_data":208}, "model": "custom/bobsled"},
-	{"predicate": {"custom_model_data":209}, "model": "custom/dwarfbox"},
-	{"predicate": {"custom_model_data":210}, "model": "custom/dwarfrope"}
+	{"predicate": {"custom_model_data":209}, "model": "custom/barnone"},
+	{"predicate": {"custom_model_data":210}, "model": "custom/barntwo"},
+	{"predicate": {"custom_model_data":211}, "model": "custom/barnthree"}
 	
 	
 		
