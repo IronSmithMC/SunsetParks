@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/custom/linky",
-		"particle": "item/custom/linky"
+		"0": "block/black_concrete",
+		"particle": "block/black_concrete"
 	},
 	"elements": [
 		{
@@ -138,6 +138,18 @@
 		}
 	],
 	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 8.5, 0]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 8.5, 0]
+		},
+		"firstperson_righthand": {
+			"translation": [3.5, 6, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [4.25, 5.75, 0]
+		},
 		"ground": {
 			"translation": [0, 9.75, 0],
 			"scale": [1.68, 1.68, 1.68]
