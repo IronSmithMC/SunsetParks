@@ -42,7 +42,10 @@
 	{"predicate": {"custom_model_data":36}, "model": "custom/dolewhipm"},
 	{"predicate": {"custom_model_data":37}, "model": "custom/dolefloat"},
 	{"predicate": {"custom_model_data":38}, "model": "custom/pickle"},
-	{"predicate": {"custom_model_data":39}, "model": "custom/ihateyou"}
+	{"predicate": {"custom_model_data":39}, "model": "custom/ihateyou"},
+	{"predicate": {"custom_model_data":40}, "model": "custom/pinkcottoncandy"},
+	{"predicate": {"custom_model_data":41}, "model": "custom/bluecottoncandy"},
+	{"predicate": {"custom_model_data":42}, "model": "custom/soda"}
 	
 	]
 }
