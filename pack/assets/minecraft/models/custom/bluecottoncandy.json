@@ -3,6 +3,8 @@
 	"textures": {
 		"1": "block/birch_planks",
 		"2": "block/light_blue_wool"
+		"particle": "block/light_blue_wool"
+		
 	},
 	"elements": [
 		{
