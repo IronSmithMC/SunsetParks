@@ -220,6 +220,11 @@
 	{"predicate": {"custom_model_data":213}, "model": "custom/minerhat"},
 	{"predicate": {"custom_model_data":214}, "model": "custom/spacehelmet"},
 	{"predicate": {"custom_model_data":215}, "model": "custom/minerhat"},
+	{"predicate": {"custom_model_data":216}, "model": "custom/dapperyellow"},
+	{"predicate": {"custom_model_data":217}, "model": "custom/dapperpurple"},
+	{"predicate": {"custom_model_data":218}, "model": "custom/dapperred"},
+	{"predicate": {"custom_model_data":219}, "model": "custom/dapperblue"},
+	{"predicate": {"custom_model_data":220}, "model": "custom/linky"}
 	
 	
 	
