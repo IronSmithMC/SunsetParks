@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "item/custom/soda"
-		"particle": "block/brown_concrete"
+		
 	},
 	"elements": [
 		{
