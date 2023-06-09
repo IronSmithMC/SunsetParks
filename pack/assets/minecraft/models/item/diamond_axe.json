@@ -224,7 +224,8 @@
 	{"predicate": {"custom_model_data":217}, "model": "custom/dapperpurple"},
 	{"predicate": {"custom_model_data":218}, "model": "custom/dapperred"},
 	{"predicate": {"custom_model_data":219}, "model": "custom/dapperblue"},
-	{"predicate": {"custom_model_data":220}, "model": "custom/linky"}
+	{"predicate": {"custom_model_data":220}, "model": "custom/linky"},
+	{"predicate": {"custom_model_data":221}, "model": "custom/pridesg"}
 	
 	
 	
