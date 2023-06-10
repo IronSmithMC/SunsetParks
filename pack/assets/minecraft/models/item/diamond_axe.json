@@ -231,6 +231,16 @@
 	{"predicate": {"custom_model_data":224}, "model": "custom/lobsterred"},
 	{"predicate": {"custom_model_data":225}, "model": "custom/clam"},
 	{"predicate": {"custom_model_data":226}, "model": "custom/arielboat"}
+	{"predicate": {"custom_model_data":227}, "model": "custom/redmicears"},
+	{"predicate": {"custom_model_data":228}, "model": "custom/orangemicears"},
+	{"predicate": {"custom_model_data":229}, "model": "custom/yellowmicears"},
+	{"predicate": {"custom_model_data":230}, "model": "custom/limemicears"},
+	{"predicate": {"custom_model_data":231}, "model": "custom/greenmicears"},
+	{"predicate": {"custom_model_data":232}, "model": "custom/lbluemicears"},
+	{"predicate": {"custom_model_data":233}, "model": "custom/bluemicears"},
+	{"predicate": {"custom_model_data":234}, "model": "custom/magmicears"},
+	{"predicate": {"custom_model_data":235}, "model": "custom/purplemicears"},
+	{"predicate": {"custom_model_data":236}, "model": "custom/cyanmicears"}
 	
 	
 		
