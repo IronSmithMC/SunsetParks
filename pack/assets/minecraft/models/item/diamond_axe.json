@@ -246,7 +246,8 @@
 	{"predicate": {"custom_model_data":239}, "model": "custom/pinkstarf"},
 	{"predicate": {"custom_model_data":240}, "model": "custom/greenstarf"},
 	{"predicate": {"custom_model_data":241}, "model": "custom/purplestarf"},
-	{"predicate": {"custom_model_data":242}, "model": "custom/orangestarf"}
+	{"predicate": {"custom_model_data":242}, "model": "custom/orangestarf"},
+	{"predicate": {"custom_model_data":243}, "model": "custom/arielturtle"}
 	
 	
 		
