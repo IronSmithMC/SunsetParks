@@ -162,6 +162,19 @@
             "ascent": 13,
             "height": 17,
             "chars": ["\u8733"]
+        },{
+            "type": "bitmap",
+            "file": "gui/custom/buttonvendor.png",
+            "ascent": 13,
+            "height": 17,
+            "chars": ["\u8734"]
+        }
+        {
+            "type": "bitmap",
+            "file": "gui/custom/madhattergui.png",
+            "ascent": 13,
+            "height": 17,
+            "chars": ["\u8733"]
         }
         
     ]
