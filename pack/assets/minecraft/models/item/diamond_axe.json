@@ -230,7 +230,7 @@
 	{"predicate": {"custom_model_data":223}, "model": "custom/bluelobster"},
 	{"predicate": {"custom_model_data":224}, "model": "custom/lobsterred"},
 	{"predicate": {"custom_model_data":225}, "model": "custom/clam"},
-	{"predicate": {"custom_model_data":226}, "model": "custom/arielboat"}
+	{"predicate": {"custom_model_data":226}, "model": "custom/arielboat"},
 	{"predicate": {"custom_model_data":227}, "model": "custom/redmicears"},
 	{"predicate": {"custom_model_data":228}, "model": "custom/orangemicears"},
 	{"predicate": {"custom_model_data":229}, "model": "custom/yellowmicears"},
