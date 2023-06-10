@@ -225,7 +225,8 @@
 	{"predicate": {"custom_model_data":218}, "model": "custom/dapperred"},
 	{"predicate": {"custom_model_data":219}, "model": "custom/dapperblue"},
 	{"predicate": {"custom_model_data":220}, "model": "custom/linky"},
-	{"predicate": {"custom_model_data":221}, "model": "custom/pridesg"}
+	{"predicate": {"custom_model_data":221}, "model": "custom/pridesg"},
+	{"predicate": {"custom_model_data":222}, "model": "custom/arielbody"}
 	
 	
 	
