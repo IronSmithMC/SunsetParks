@@ -3,7 +3,8 @@
 	"textures": {
 		"6": "block/purple_concrete_powder",
 		"8": "block/black_concrete",
-		"9": "block/white_concrete"
+		"9": "block/white_concrete",
+		"particle": "block/purple_concrete_powder"
 	},
 	"elements": [
 		{
@@ -337,6 +338,37 @@
 			}
 		}
 	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -112, 0],
+			"translation": [1, 7.25, 12.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 68, 0],
+			"translation": [2, 7.25, 13]
+		},
+		"firstperson_righthand": {
+			"rotation": [56, 56, 11],
+			"translation": [10, -2, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [79, -90, 0],
+			"translation": [10, -3.5, 0]
+		},
+		"ground": {
+			"translation": [0, 6.25, 0]
+		},
+		"gui": {
+			"rotation": [90, 90, 0],
+			"translation": [1, -4.25, 0],
+			"scale": [2.5, 2.5, 2.5]
+		},
+		"head": {
+			"rotation": [-90, -90, 0],
+			"translation": [-1.25, 6, -27],
+			"scale": [2.6, 2.6, 2.6]
+		}
+	},
 	"groups": [
 		{
 			"name": "group",
