@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/custom/floundersp",
-		"particle": "item/custom/floundersp"
+		"0": "item/custom/flounder",
+		"particle": "item/custom/flounder"
 	},
 	"elements": [
 		{
@@ -178,35 +178,35 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [72, -7, 0],
-			"translation": [0, -1.5, 18.5],
-			"scale": [1.24, 1.24, 1.24]
+			"translation": [2.25, -2.75, 26.5],
+			"scale": [1.94, 1.94, 1.94]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [65, -8, 1],
-			"translation": [0.75, -1.25, 19],
-			"scale": [1.24, 1.24, 1.24]
+			"translation": [3.25, -1.25, 23.75],
+			"scale": [1.94, 1.94, 1.94]
 		},
 		"firstperson_righthand": {
 			"rotation": [-1, 134, 0],
-			"translation": [5.75, 6, -3]
+			"translation": [5.75, 6, -1.75]
 		},
 		"firstperson_lefthand": {
 			"rotation": [0, 127, 0],
-			"translation": [4.75, 6, -3]
+			"translation": [6.5, 6, -3]
 		},
 		"ground": {
 			"translation": [-2, 9, 3],
 			"scale": [1.9, 1.9, 1.9]
 		},
 		"gui": {
-			"rotation": [0, 127, 0],
+			"rotation": [0, 135, 0],
 			"translation": [4.25, 7, 0],
 			"scale": [1.97, 1.97, 1.97]
 		},
 		"head": {
-			"rotation": [6, 4, 0],
-			"translation": [-0.5, 16, 4],
-			"scale": [1.9, 1.9, 1.9]
+			"rotation": [0, 4, 0],
+			"translation": [-0.5, 20, 7.25],
+			"scale": [2.5, 2.5, 2.5]
 		},
 		"fixed": {
 			"rotation": [0, -62, 0],
@@ -220,14 +220,12 @@
 			"origin": [8, 8, 8],
 			"color": 0,
 			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [
 				{
 					"name": "flounder",
 					"origin": [0, 0, 0],
 					"color": 0,
 					"nbt": "{}",
-					"armAnimationEnabled": false,
 					"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
 				}
 			]
