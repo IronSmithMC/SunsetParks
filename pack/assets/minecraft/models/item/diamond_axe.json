@@ -241,7 +241,11 @@
 	{"predicate": {"custom_model_data":234}, "model": "custom/magmicears"},
 	{"predicate": {"custom_model_data":235}, "model": "custom/purplemicears"},
 	{"predicate": {"custom_model_data":236}, "model": "custom/cyanmicears"},
-	{"predicate": {"custom_model_data":237}, "model": "custom/octopus"}
+	{"predicate": {"custom_model_data":237}, "model": "custom/octopus"},
+	{"predicate": {"custom_model_data":238}, "model": "custom/bluestarf"},
+	{"predicate": {"custom_model_data":239}, "model": "custom/pinkstarf"},
+	{"predicate": {"custom_model_data":240}, "model": "custom/greenstarf"},
+	{"predicate": {"custom_model_data":241}, "model": "custom/purplestarf"}
 	
 	
 		
