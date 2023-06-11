@@ -255,7 +255,8 @@
 	{"predicate": {"custom_model_data":248}, "model": "custom/ursulahead"},
 	{"predicate": {"custom_model_data":249}, "model": "custom/leftclaw"},
 	{"predicate": {"custom_model_data":250}, "model": "custom/rightclaw"},
-	{"predicate": {"custom_model_data":251}, "model": "custom/scuttle"}
+	{"predicate": {"custom_model_data":251}, "model": "custom/scuttle"},
+	{"predicate": {"custom_model_data":252}, "model": "custom/seb"}
 	
 	
 		
