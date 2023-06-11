@@ -252,7 +252,10 @@
 	{"predicate": {"custom_model_data":245}, "model": "custom/ursluarightarm"},
 	{"predicate": {"custom_model_data":246}, "model": "custom/urslualeftarm"},
 	{"predicate": {"custom_model_data":247}, "model": "custom/ursulabody"},
-	{"predicate": {"custom_model_data":248}, "model": "custom/ursulahead"}
+	{"predicate": {"custom_model_data":248}, "model": "custom/ursulahead"},
+	{"predicate": {"custom_model_data":249}, "model": "custom/leftclaw"},
+	{"predicate": {"custom_model_data":250}, "model": "custom/rightclaw"},
+	{"predicate": {"custom_model_data":251}, "model": "custom/scuttle"}
 	
 	
 		
