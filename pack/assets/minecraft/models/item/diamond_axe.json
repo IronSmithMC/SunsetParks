@@ -258,7 +258,8 @@
 	{"predicate": {"custom_model_data":251}, "model": "custom/scuttle"},
 	{"predicate": {"custom_model_data":252}, "model": "custom/seb"},
 	{"predicate": {"custom_model_data":253}, "model": "custom/arielarm"},
-	{"predicate": {"custom_model_data":254}, "model": "custom/arieldress"}
+	{"predicate": {"custom_model_data":254}, "model": "custom/arieldress"},
+	{"predicate": {"custom_model_data":254}, "model": "custom/kingtrident"}
 	
 	
 		
