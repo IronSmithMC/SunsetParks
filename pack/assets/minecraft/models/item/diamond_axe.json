@@ -256,7 +256,9 @@
 	{"predicate": {"custom_model_data":249}, "model": "custom/leftclaw"},
 	{"predicate": {"custom_model_data":250}, "model": "custom/rightclaw"},
 	{"predicate": {"custom_model_data":251}, "model": "custom/scuttle"},
-	{"predicate": {"custom_model_data":252}, "model": "custom/seb"}
+	{"predicate": {"custom_model_data":252}, "model": "custom/seb"},
+	{"predicate": {"custom_model_data":253}, "model": "custom/arielarm"},
+	{"predicate": {"custom_model_data":254}, "model": "custom/arieldress"}
 	
 	
 		
