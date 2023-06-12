@@ -259,7 +259,7 @@
 	{"predicate": {"custom_model_data":252}, "model": "custom/seb"},
 	{"predicate": {"custom_model_data":253}, "model": "custom/arielarm"},
 	{"predicate": {"custom_model_data":254}, "model": "custom/arieldress"},
-	{"predicate": {"custom_model_data":254}, "model": "custom/kingtrident"}
+	{"predicate": {"custom_model_data":255}, "model": "custom/kingtrident"}
 	
 	
 		
