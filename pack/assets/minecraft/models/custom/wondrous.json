@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "wondurousbutton",
-		"particle": "wondurousbutton"
+		"0": "item/custom/gstf/wondurousbutton",
+		"particle": "item/custom/gstf/wondurousbutton"
 	},
 	"elements": [
 		{
