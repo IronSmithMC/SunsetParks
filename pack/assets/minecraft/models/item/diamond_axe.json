@@ -262,7 +262,9 @@
 	{"predicate": {"custom_model_data":255}, "model": "custom/kingtrident"},
 	{"predicate": {"custom_model_data":256}, "model": "custom/scuttlewings"},
 	{"predicate": {"custom_model_data":257}, "model": "custom/wondrous"},
-	{"predicate": {"custom_model_data":258}, "model": "custom/prideparade"}
+	{"predicate": {"custom_model_data":258}, "model": "custom/prideparade"},
+	{"predicate": {"custom_model_data":259}, "model": "custom/fishone"},
+	{"predicate": {"custom_model_data":260}, "model": "custom/fishtwo"}
 	
 	
 		
