@@ -2199,11 +2199,21 @@
 		}
 	],
 	"display": {
+		"thirdperson_righthand": {
+			"rotation": [66, 90, 0],
+			"translation": [-5.75, -1.5, 5.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [76, -90, 0],
+			"translation": [-6, -0.5, 4.5]
+		},
 		"gui": {
 			"scale": [0.32, 0.32, 0.32]
 		},
 		"head": {
-			"scale": [1.63, 1.63, 1.63]
+			"rotation": [0, 90, 0],
+			"translation": [11.75, -16.5, -8.75],
+			"scale": [2.63, 2.63, 2.63]
 		}
 	}
 }
