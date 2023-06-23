@@ -6960,8 +6960,8 @@
 		},
 		"head": {
 			"rotation": [0, 90, 0],
-			"translation": [0, 12.5, 4],
-			"scale": [2.26, 2.26, 2.26]
+			"translation": [0, 3.25, 4],
+			"scale": [1.95, 1.95, 1.95]
 		}
 	},
 	"groups": [
