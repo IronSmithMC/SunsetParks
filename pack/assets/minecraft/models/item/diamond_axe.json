@@ -176,7 +176,7 @@
 	{"predicate": {"custom_model_data":169}, "model": "custom/prideflag"},
 	{"predicate": {"custom_model_data":170}, "model": "custom/astro_blaster"},
 	{"predicate": {"custom_model_data":171}, "model": "custom/buzz_lightyear_wings"},
-	{"predicate": {"custom_model_data":172}, "model": "custom/cart_astro_orbiter"},
+	{"predicate": {"custom_model_data":172}, "model": "custom/astromk"},
 	{"predicate": {"custom_model_data":173}, "model": "custom/cart_buzz_lightyear_astro_blasters"},
 	{"predicate": {"custom_model_data":174}, "model": "custom/horsie"},
 	{"predicate": {"custom_model_data":175}, "model": "custom/turkeyleg"},
@@ -269,8 +269,8 @@
 	{"predicate": {"custom_model_data":262}, "model": "custom/sw-wheel"},
 	{"predicate": {"custom_model_data":263}, "model": "custom/sw-steeringwheel"},
 	{"predicate": {"custom_model_data":264}, "model": "custom/phoneclock"},
-	{"predicate": {"custom_model_data":265}, "model": "custom/peoplemover"},
-	{"predicate": {"custom_model_data":266}, "model": "custom/astromk"}
+	{"predicate": {"custom_model_data":265}, "model": "custom/peoplemover"}
+	
 	
 	
 		
