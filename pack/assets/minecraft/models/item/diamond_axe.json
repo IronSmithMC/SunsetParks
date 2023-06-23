@@ -34,7 +34,7 @@
 	{"predicate": {"custom_model_data":26}, "model": "custom/leximinion"},
 	{"predicate": {"custom_model_data":27}, "model": "custom/onehun"},
 	{"predicate": {"custom_model_data":28}, "model": "custom/shmic"},
-	{"predicate": {"custom_model_data":29}, "model": "custom/astodlr"},
+	{"predicate": {"custom_model_data":29}, "model": "custom/astrodlr"},
 	{"predicate": {"custom_model_data":30}, "model": "custom/bunny"},
 	{"predicate": {"custom_model_data":31}, "model": "custom/micears"},
 	{"predicate": {"custom_model_data":32}, "model": "custom/minbow"},
