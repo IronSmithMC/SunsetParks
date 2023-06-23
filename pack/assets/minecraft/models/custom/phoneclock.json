@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "extra buttons/phoneclock",
-		"particle": "extra buttons/phoneclock"
+		"0": "item/custom/phoneclock",
+		"particle": "item/custom/phoneclock"
 	},
 	"elements": [
 		{
