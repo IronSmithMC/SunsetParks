@@ -268,7 +268,8 @@
 	{"predicate": {"custom_model_data":261}, "model": "custom/sw-carbody"},
 	{"predicate": {"custom_model_data":262}, "model": "custom/sw-wheel"},
 	{"predicate": {"custom_model_data":263}, "model": "custom/sw-steeringwheel"},
-	{"predicate": {"custom_model_data":264}, "model": "custom/phoneclock"}
+	{"predicate": {"custom_model_data":264}, "model": "custom/phoneclock"},
+	{"predicate": {"custom_model_data":265}, "model": "custom/peoplemover"}
 	
 	
 		
