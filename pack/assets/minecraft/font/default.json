@@ -169,7 +169,7 @@
             "ascent": 13,
             "height": 17,
             "chars": ["\u8734"]
-        }
+        },
         {
             "type": "bitmap",
             "file": "gui/custom/summershop.png",
