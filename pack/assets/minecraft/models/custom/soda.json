@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "SUNSET PARKS/texture/soda",
-		"particle": "SUNSET PARKS/texture/soda"
+		"2": "custom/item/soda",
+		"particle": "custom/item/soda"
 	},
 	"elements": [
 		{
