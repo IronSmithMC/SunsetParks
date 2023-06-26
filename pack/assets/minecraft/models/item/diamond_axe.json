@@ -269,7 +269,19 @@
 	{"predicate": {"custom_model_data":262}, "model": "custom/sw-wheel"},
 	{"predicate": {"custom_model_data":263}, "model": "custom/sw-steeringwheel"},
 	{"predicate": {"custom_model_data":264}, "model": "custom/phoneclock"},
-	{"predicate": {"custom_model_data":265}, "model": "custom/peoplemover"}
+	{"predicate": {"custom_model_data":265}, "model": "custom/peoplemover"},
+	{"predicate": {"custom_model_data":266}, "model": "custom/redpop"},
+	{"predicate": {"custom_model_data":267}, "model": "custom/bluepop"},
+	{"predicate": {"custom_model_data":268}, "model": "custom/purplepop"},
+	{"predicate": {"custom_model_data":269}, "model": "custom/pinkpop"},
+	{"predicate": {"custom_model_data":270}, "model": "custom/yellowsung"},
+	{"predicate": {"custom_model_data":271}, "model": "custom/redsung"},
+	{"predicate": {"custom_model_data":272}, "model": "custom/purplesung"},
+	{"predicate": {"custom_model_data":273}, "model": "custom/orangesung"},
+	{"predicate": {"custom_model_data":277}, "model": "custom/greensung"},
+	{"predicate": {"custom_model_data":278}, "model": "custom/bluesung"},
+	{"predicate": {"custom_model_data":279}, "model": "custom/mickeyburger"},
+	{"predicate": {"custom_model_data":280}, "model": "custom/burgerhb"}
 	
 	
 	
