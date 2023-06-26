@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"2": "item/custom/soda",
-		"particle": "custom/item/soda"
+		"particle": "item/custom/soda"
 	},
 	"elements": [
 		{
