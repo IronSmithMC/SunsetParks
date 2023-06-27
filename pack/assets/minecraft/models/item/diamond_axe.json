@@ -282,7 +282,8 @@
 	{"predicate": {"custom_model_data":278}, "model": "custom/bluesung"},
 	{"predicate": {"custom_model_data":279}, "model": "custom/mickeyburger"},
 	{"predicate": {"custom_model_data":280}, "model": "custom/burgerhb"},
-	{"predicate": {"custom_model_data":281}, "model": "custom/circustrash"}
+	{"predicate": {"custom_model_data":281}, "model": "custom/circustrash"},
+	{"predicate": {"custom_model_data":282}, "model": "custom/mkfantrash"}
 	
 	
 	
