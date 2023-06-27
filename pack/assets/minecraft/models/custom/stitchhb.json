@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "block/red_concrete",
-		"5": "custom/item/liloleaf",
-		"6": "custom/item/stitch",
+		"5": "item/custom/liloleaf",
+		"6": "item/custom/stitch",
 		"7": "block/cyan_concrete"
 	},
 	"elements": [
