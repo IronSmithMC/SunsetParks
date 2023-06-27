@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "Sprite-0002",
+		"0": "/item/custom/Sprite-0002",
 		"1": "block/red_concrete",
 		"2": "block/white_concrete",
-		"particle": "Sprite-0002"
+		"particle": "/item/custom/Sprite-0002"
 	},
 	"elements": [
 		{
