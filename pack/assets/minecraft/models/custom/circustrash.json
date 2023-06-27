@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "/item/custom/circusp",
 		"1": "block/red_concrete",
 		"2": "block/white_concrete",
-		"particle": "/item/custom/circusp"
+		"3": "item/custom/circusp",
+		"particle": "item/custom/circusp"
 	},
 	"elements": [
 		{
@@ -91,9 +91,9 @@
 			"from": [-3.15, 5.8, -5.35],
 			"to": [3.15, 10.3, 5.35],
 			"faces": {
-				"north": {"uv": [0, 0, 15.8331, 15.81872], "texture": "#0"},
+				"north": {"uv": [0, 0, 15.8331, 15.81872], "texture": "#3"},
 				"east": {"uv": [2.75, 0, 5.375, 3.375], "texture": "#2"},
-				"south": {"uv": [0, 0, 15.95617, 15.63937], "texture": "#0"},
+				"south": {"uv": [0, 0, 15.95617, 15.63937], "texture": "#3"},
 				"west": {"uv": [2.75, 3.5, 5.375, 6.875], "texture": "#2"},
 				"up": {"uv": [8.125, 2.625, 5.5, 0], "texture": "#2"},
 				"down": {"uv": [8.125, 2.75, 5.5, 5.375], "texture": "#2"}
