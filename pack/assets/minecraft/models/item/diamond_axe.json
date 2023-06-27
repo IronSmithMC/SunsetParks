@@ -281,7 +281,8 @@
 	{"predicate": {"custom_model_data":277}, "model": "custom/greensung"},
 	{"predicate": {"custom_model_data":278}, "model": "custom/bluesung"},
 	{"predicate": {"custom_model_data":279}, "model": "custom/mickeyburger"},
-	{"predicate": {"custom_model_data":280}, "model": "custom/burgerhb"}
+	{"predicate": {"custom_model_data":280}, "model": "custom/burgerhb"},
+	{"predicate": {"custom_model_data":281}, "model": "custom/circustrash"}
 	
 	
 	
