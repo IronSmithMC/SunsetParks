@@ -279,7 +279,13 @@
 	{"predicate": {"custom_model_data":279}, "model": "custom/stitchhb"},
 	{"predicate": {"custom_model_data":280}, "model": "custom/burgerhb"},
 	{"predicate": {"custom_model_data":281}, "model": "custom/circustrash"},
-	{"predicate": {"custom_model_data":282}, "model": "custom/mkfantrash"}
+	{"predicate": {"custom_model_data":282}, "model": "custom/mkfantrash"},
+	{"predicate": {"custom_model_data":283}, "model": "custom/redsunny"},
+	{"predicate": {"custom_model_data":284}, "model": "custom/bluesunny"},
+	{"predicate": {"custom_model_data":285}, "model": "custom/greensunny"},
+	{"predicate": {"custom_model_data":286}, "model": "custom/yellowsunny"},
+	{"predicate": {"custom_model_data":287}, "model": "custom/orangesunny"},
+	{"predicate": {"custom_model_data":288}, "model": "custom/purplesunny"}
 	
 	
 	
