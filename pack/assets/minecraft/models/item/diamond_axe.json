@@ -290,7 +290,11 @@
 	{"predicate": {"custom_model_data":290}, "model": "custom/donaldhb"},
 	{"predicate": {"custom_model_data":291}, "model": "custom/elementalhb"},
 	{"predicate": {"custom_model_data":292}, "model": "custom/encantohb"},
-	{"predicate": {"custom_model_data":293}, "model": "custom/happybirthdayhb"}
+	{"predicate": {"custom_model_data":293}, "model": "custom/happybirthdayhb"},
+	{"predicate": {"custom_model_data":294}, "model": "custom/strawberrysquish"},
+	{"predicate": {"custom_model_data":295}, "model": "custom/icsquish"},
+	{"predicate": {"custom_model_data":296}, "model": "custom/pineapplesquish"},
+	{"predicate": {"custom_model_data":297}, "model": "custom/bluesquish"}
 	
 	
 	
