@@ -3,9 +3,9 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"2": "block/blue_glazed_terracotta",
-		"3": "encanto",
+		"3": "item/custom/encanto",
 		"4": "block/magenta_wool",
-		"5": "encantotwo",
+		"5": "item/custom/encantotwo",
 		"particle": "block/blue_glazed_terracotta"
 	},
 	"elements": [
