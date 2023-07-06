@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "block/red_mushroom_block",
 		"2": "block/blue_concrete_powder",
-		"3": "custom/item/donald",
+		"3": "item/custom/donald",
 		"4": "block/yellow_concrete",
 		"particle": "block/red_mushroom_block"
 	},
