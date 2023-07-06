@@ -285,7 +285,12 @@
 	{"predicate": {"custom_model_data":285}, "model": "custom/greensunny"},
 	{"predicate": {"custom_model_data":286}, "model": "custom/yellowsunny"},
 	{"predicate": {"custom_model_data":287}, "model": "custom/orangesunny"},
-	{"predicate": {"custom_model_data":288}, "model": "custom/purplesunny"}
+	{"predicate": {"custom_model_data":288}, "model": "custom/purplesunny"},
+	{"predicate": {"custom_model_data":289}, "model": "custom/daisyduckhb"},
+	{"predicate": {"custom_model_data":290}, "model": "custom/donaldhb"},
+	{"predicate": {"custom_model_data":291}, "model": "custom/elementalhb"},
+	{"predicate": {"custom_model_data":292}, "model": "custom/encantohb"},
+	{"predicate": {"custom_model_data":293}, "model": "custom/happybirthdayhb"}
 	
 	
 	
