@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "block/purple_wool",
-		"2": "fire",
-		"3": "water",
+		"2": "item/custom/fire",
+		"3": "item/custom/water",
 		"4": "block/orange_wool",
 		"6": "block/yellow_concrete",
 		"7": "block/yellow_concrete_powder",
