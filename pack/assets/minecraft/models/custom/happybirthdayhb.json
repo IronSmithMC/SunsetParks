@@ -3,8 +3,8 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"1": "block/light_blue_concrete_powder",
-		"3": "custom/item/happybd",
-		"4": "custom/item/mickeycelebrate",
+		"3": "item/custom/happybd",
+		"4": "item/custom/mickeycelebrate",
 		"particle": "block/lime_concrete_powder"
 	},
 	"elements": [
