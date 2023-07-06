@@ -1,11 +1,11 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Jcey",
 	"texture_size": [32, 32],
 	"textures": {
 		"1": "block/cyan_wool",
 		"2": "block/orange_wool",
-		"3": "flowersdaisy",
-		"4": "dasiyduckt",
+		"3": "custom/item/flowersdaisy",
+		"4": "custom/item/dasiyduckt",
 		"particle": "block/cyan_wool"
 	},
 	"elements": [
