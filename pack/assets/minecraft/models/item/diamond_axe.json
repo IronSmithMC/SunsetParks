@@ -294,7 +294,9 @@
 	{"predicate": {"custom_model_data":294}, "model": "custom/strawberrysquish"},
 	{"predicate": {"custom_model_data":295}, "model": "custom/icsquish"},
 	{"predicate": {"custom_model_data":296}, "model": "custom/pineapplesquish"},
-	{"predicate": {"custom_model_data":297}, "model": "custom/bluesquish"}
+	{"predicate": {"custom_model_data":297}, "model": "custom/bluesquish"},
+	{"predicate": {"custom_model_data":298}, "model": "custom/poohhb"},
+	{"predicate": {"custom_model_data":299}, "model": "custom/poohears"}
 	
 	
 	
