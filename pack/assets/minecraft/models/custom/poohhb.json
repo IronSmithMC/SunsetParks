@@ -3,7 +3,7 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"1": "block/red_mushroom_block",
-		"2": "poohb",
+		"2": "item/custom/poohb",
 		"3": "block/yellow_concrete_powder",
 		"particle": "block/yellow_concrete"
 	},
