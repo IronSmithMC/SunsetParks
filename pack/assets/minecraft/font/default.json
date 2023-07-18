@@ -186,10 +186,11 @@
         },
         {
             "type": "bitmap",
-            "file": "gui/custom/director.png",
+            "file": "minecraft:font/director.png",
             "ascent": 9,
             "height": 9,
             "chars": ["\uE003"]
         }
+        
 ]
 }
