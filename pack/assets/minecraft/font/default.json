@@ -189,7 +189,7 @@
             "file": "gui/custom/director.png",
             "ascent": 9,
             "height": 9,
-            "chars": ["\u4000"]
+            "chars": ["\uE003"]
         }
 ]
 }
