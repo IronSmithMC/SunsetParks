@@ -183,7 +183,14 @@
             "ascent": 13,
             "height": 17,
             "chars": ["\u8736"]
-        }
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/director.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\u8449"]
+        },
         
         
     ]
