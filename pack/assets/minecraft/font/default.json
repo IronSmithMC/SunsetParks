@@ -187,7 +187,7 @@
         {
             "type": "bitmap",
             "file": "minecraft:font/director.png",
-            "ascent": 9,
+            "ascent": 8,
             "height": 9,
             "chars": ["\uE003"]
         }
