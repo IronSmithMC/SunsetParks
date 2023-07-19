@@ -300,7 +300,21 @@
 	{"predicate": {"custom_model_data":300}, "model": "custom/rightbutton"},
 	{"predicate": {"custom_model_data":301}, "model": "custom/leftbutton"},
 	{"predicate": {"custom_model_data":302}, "model": "custom/rightbuttondisabled"},
-	{"predicate": {"custom_model_data":303}, "model": "custom/leftbuttondisabled"}
+	{"predicate": {"custom_model_data":303}, "model": "custom/leftbuttondisabled"},
+	{"predicate": {"custom_model_data":304}, "model": "custom/arielmk"},
+	{"predicate": {"custom_model_data":305}, "model": "custom/barnstormer"},
+	{"predicate": {"custom_model_data":306}, "model": "custom/buzzmk"},
+	{"predicate": {"custom_model_data":307}, "model": "custom/carouselmk"},
+	{"predicate": {"custom_model_data":308}, "model": "custom/dumbomk"},
+	{"predicate": {"custom_model_data":309}, "model": "custom/mkcastle"},
+	{"predicate": {"custom_model_data":310}, "model": "custom/orbmk"},
+	{"predicate": {"custom_model_data":311}, "model": "custom/philmagic"},
+	{"predicate": {"custom_model_data":312}, "model": "custom/ppfmk"},
+	{"predicate": {"custom_model_data":313}, "model": "custom/sdmt"},
+	{"predicate": {"custom_model_data":314}, "model": "custom/smallworldmk"},
+	{"predicate": {"custom_model_data":315}, "model": "custom/spacemk"},
+	{"predicate": {"custom_model_data":316}, "model": "custom/teacupmk"},
+	{"predicate": {"custom_model_data":317}, "model": "custom/wtphhomk"}
 	
 	
 	
