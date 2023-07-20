@@ -326,9 +326,8 @@
 	{"predicate": {"custom_model_data":326}, "model": "custom/phausvillage"},
 	{"predicate": {"custom_model_data":327}, "model": "custom/philmagic"},
 	{"predicate": {"custom_model_data":328}, "model": "custom/princessfair"},
-	{"predicate": {"custom_model_data":329}, "model": "custom/smallworldmk"},
-	{"predicate": {"custom_model_data":330}, "model": "custom/speedway"},
-	{"predicate": {"custom_model_data":331}, "model": "custom/teacupmk"}
+	{"predicate": {"custom_model_data":329}, "model": "custom/speedway"},
+	{"predicate": {"custom_model_data":330}, "model": "custom/teacupmk"}
 		
 ]
 }
