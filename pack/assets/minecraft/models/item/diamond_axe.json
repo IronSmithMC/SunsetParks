@@ -321,13 +321,11 @@
 	{"predicate": {"custom_model_data":321}, "model": "custom/belle"},
 	{"predicate": {"custom_model_data":322}, "model": "custom/beourguest"},
 	{"predicate": {"custom_model_data":323}, "model": "custom/croyaltable"},
-	{"predicate": {"custom_model_data":324}, "model": "custom/mkcastle"},
-	{"predicate": {"custom_model_data":325}, "model": "custom/petesideshow"},
-	{"predicate": {"custom_model_data":326}, "model": "custom/phausvillage"},
-	{"predicate": {"custom_model_data":327}, "model": "custom/philmagic"},
-	{"predicate": {"custom_model_data":328}, "model": "custom/princessfair"},
-	{"predicate": {"custom_model_data":329}, "model": "custom/speedway"},
-	{"predicate": {"custom_model_data":330}, "model": "custom/teacupmk"}
+	{"predicate": {"custom_model_data":324}, "model": "custom/petesideshow"},
+	{"predicate": {"custom_model_data":325}, "model": "custom/phausvillage"},
+	{"predicate": {"custom_model_data":326}, "model": "custom/princessfair"},
+	{"predicate": {"custom_model_data":327}, "model": "custom/speedway"},
+	
 		
 ]
 }
