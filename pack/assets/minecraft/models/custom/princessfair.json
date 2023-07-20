@@ -2,13 +2,13 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/custom/gstf/speedway",
-		"particle": "item/custom/gstf/speedway"
+		"0": "princessfair",
+		"particle": "princessfair"
 	},
 	"elements": [
 		{
-			"from": [0, 0, 0],
-			"to": [16, 0.25, 16.75],
+			"from": [1, 0, 0],
+			"to": [17, 0.25, 16.75],
 			"faces": {
 				"north": {"uv": [0, 4.5, 4, 4.5625], "texture": "#0"},
 				"east": {"uv": [0, 4.25, 4.1875, 4.3125], "texture": "#0"},
