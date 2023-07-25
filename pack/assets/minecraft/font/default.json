@@ -4,9 +4,9 @@
         {"type": "bitmap", "file": "gui/custom/pixel.png","ascent": -2000,"height": -171,"chars": ["\u8528"]},
         {
             "type": "bitmap",
-            "file": "minecraft:font/title.png",
-            "height": 128,
-            "ascent": 128,
+            "file": "gui/custom/title.png",
+            "height": 8,
+            "ascent": 8,
             "chars":["\uE000"]
         },
         {
@@ -186,9 +186,9 @@
         },
         {
             "type": "bitmap",
-            "file": "font/director.png",
-            "ascent": 9,
-            "height": 9,
+            "file": "gui/custom/director-small.png",
+            "ascent": 8,
+            "height": 8,
             "chars": ["\uE003"]
         }
         
