@@ -300,7 +300,8 @@
 	{"predicate": {"custom_model_data":300}, "model": "custom/rightbutton"},
 	{"predicate": {"custom_model_data":301}, "model": "custom/leftbutton"},
 	{"predicate": {"custom_model_data":302}, "model": "custom/rightbuttondisabled"},
-	{"predicate": {"custom_model_data":303}, "model": "custom/leftbuttondisabled"}
+	{"predicate": {"custom_model_data":303}, "model": "custom/leftbuttondisabled"},
+	{"predicate": {"custom_model_data":304}, "model": "custom/gui/loading-hotbar-item"}
 	
 	
 	
