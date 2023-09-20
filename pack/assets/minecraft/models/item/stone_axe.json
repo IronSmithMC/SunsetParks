@@ -18,6 +18,7 @@
     		{"predicate": {"custom_model_data":10}, "model": "custom/swewdoorone"},
     		{"predicate": {"custom_model_data":11}, "model": "custom/swewdoortwo"},
     		{"predicate": {"custom_model_data":12}, "model": "custom/mirrortwo"},
-		{"predicate": {"custom_model_data":13}, "model": "custom/mirrorthree"}
+		{"predicate": {"custom_model_data":13}, "model": "custom/mirrorthree"},
+		{"predicate": {"custom_model_data":14}, "model": "custom/picket"}
 	]
 }
