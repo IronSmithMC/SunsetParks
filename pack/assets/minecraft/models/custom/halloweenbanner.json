@@ -8,7 +8,7 @@
 		"8": "block/pumpkin_side",
 		"9": "block/brown_terracotta",
 		"10": "block/yellow_wool",
-		"11": "halloweenpic",
+		"11": "item/custom/halloweenpic",
 		"12": "block/shroomlight",
 		"particle": "block/acacia_planks"
 	},
