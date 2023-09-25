@@ -328,7 +328,9 @@
 	{"predicate": {"custom_model_data":328}, "model": "custom/halloweenbanner"},
 	{"predicate": {"custom_model_data":329}, "model": "custom/miniewitchpur"},
 	{"predicate": {"custom_model_data":330}, "model": "custom/miniewitchpnk"},
-	{"predicate": {"custom_model_data":331}, "model": "custom/miniewitchgrn"}	
+	{"predicate": {"custom_model_data":331}, "model": "custom/miniewitchgrn"},
+	{"predicate": {"custom_model_data":332}, "model": "custom/halloweenbp"},
+	{"predicate": {"custom_model_data":333}, "model": "custom/halloweenhb"}
 	
 		
 ]
