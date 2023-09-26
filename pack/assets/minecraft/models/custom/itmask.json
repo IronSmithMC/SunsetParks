@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "pngfind.com-clown-face-png-1363522",
+		"0": "itmask",
 		"1": "block/black_concrete",
 		"2": "itback",
-		"particle": "pngfind.com-clown-face-png-1363522"
+		"particle": "itmask"
 	},
 	"elements": [
 		{
