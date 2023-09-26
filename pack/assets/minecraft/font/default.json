@@ -197,6 +197,13 @@
             "ascent": 13,
             "height": 17,
             "chars": ["\u8737"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/custom/horrorgui.png",
+            "ascent": 13,
+            "height": 17,
+            "chars": ["\u8738"]
         }
         
 ]
