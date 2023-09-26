@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "itmask",
+		"0": "item/custom/itmask",
 		"1": "block/black_concrete",
-		"2": "itback",
+		"2": "item/custom/itback",
 		"particle": "itmask"
 	},
 	"elements": [
