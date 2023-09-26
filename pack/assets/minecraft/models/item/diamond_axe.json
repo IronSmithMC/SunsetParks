@@ -330,11 +330,13 @@
 	{"predicate": {"custom_model_data":330}, "model": "custom/miniewitchpnk"},
 	{"predicate": {"custom_model_data":331}, "model": "custom/miniewitchgrn"},
 	{"predicate": {"custom_model_data":332}, "model": "custom/halloweenbp"},
-	{"predicate": {"custom_model_data":333}, "model": "custom/halloweenhb"}
+	{"predicate": {"custom_model_data":333}, "model": "custom/halloweenhb"},
 	{"predicate": {"custom_model_data":334}, "model": "custom/halloweenhbpg"},
 	{"predicate": {"custom_model_data":335}, "model": "custom/halloweenbpp"},
 	{"predicate": {"custom_model_data":336}, "model": "custom/halloweenhbp"},
-	{"predicate": {"custom_model_data":337}, "model": "custom/halloweenhbg"}
+	{"predicate": {"custom_model_data":337}, "model": "custom/halloweenhbg"},
+	{"predicate": {"custom_model_data":338}, "model": "custom/halloweenbpm"},
+	{"predicate": {"custom_model_data":339}, "model": "custom/halloweenhbm"}
 	
 		
 ]
