@@ -337,7 +337,8 @@
 	{"predicate": {"custom_model_data":337}, "model": "custom/halloweenhbg"},
 	{"predicate": {"custom_model_data":338}, "model": "custom/halloweenbpm"},
 	{"predicate": {"custom_model_data":339}, "model": "custom/halloweenhbm"},
-	{"predicate": {"custom_model_data":340}, "model": "custom/itmask"}
+	{"predicate": {"custom_model_data":340}, "model": "custom/itmask"},
+	{"predicate": {"custom_model_data":341}, "model": "custom/halloweenmickeywreath"}
 		
 ]
 }
