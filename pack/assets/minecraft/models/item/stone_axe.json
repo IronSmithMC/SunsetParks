@@ -19,6 +19,11 @@
     		{"predicate": {"custom_model_data":11}, "model": "custom/swewdoortwo"},
     		{"predicate": {"custom_model_data":12}, "model": "custom/mirrortwo"},
 		{"predicate": {"custom_model_data":13}, "model": "custom/mirrorthree"},
-		{"predicate": {"custom_model_data":14}, "model": "custom/picket"}
+		{"predicate": {"custom_model_data":14}, "model": "custom/picket"},
+		{"predicate": {"custom_model_data":15}, "model": "custom/statuearm"},
+		{"predicate": {"custom_model_data":16}, "model": "custom/blackarm"},
+		{"predicate": {"custom_model_data":17}, "model": "custom/pbaseballbat"},
+		{"predicate": {"custom_model_data":18}, "model": "custom/wchainsawarm"},
+		{"predicate": {"custom_model_data":19}, "model": "custom/clownchainsawarm"}
 	]
 }
