@@ -338,7 +338,16 @@
 	{"predicate": {"custom_model_data":338}, "model": "custom/halloweenbpm"},
 	{"predicate": {"custom_model_data":339}, "model": "custom/halloweenhbm"},
 	{"predicate": {"custom_model_data":340}, "model": "custom/itmask"},
-	{"predicate": {"custom_model_data":341}, "model": "custom/halloweenmickeywreath"}
+	{"predicate": {"custom_model_data":341}, "model": "custom/halloweenmickeywreath"},
+	{"predicate": {"custom_model_data":342}, "model": "custom/halloweenears"},
+	{"predicate": {"custom_model_data":343}, "model": "custom/halloweenearsp"},
+	{"predicate": {"custom_model_data":344}, "model": "custom/halloweenearsm"},
+	{"predicate": {"custom_model_data":345}, "model": "custom/clownhammer"},
+	{"predicate": {"custom_model_data":346}, "model": "custom/chainsaw"},
+	{"predicate": {"custom_model_data":347}, "model": "custom/halloweengarland"},
+	{"predicate": {"custom_model_data":348}, "model": "custom/demonhorns"},
+	{"predicate": {"custom_model_data":349}, "model": "custom/barrel"},
+	{"predicate": {"custom_model_data":350}, "model": "custom/dagger"}
 		
 ]
 }
