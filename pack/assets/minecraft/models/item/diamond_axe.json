@@ -347,7 +347,8 @@
 	{"predicate": {"custom_model_data":347}, "model": "custom/halloweengarland"},
 	{"predicate": {"custom_model_data":348}, "model": "custom/demonhorns"},
 	{"predicate": {"custom_model_data":349}, "model": "custom/barrel"},
-	{"predicate": {"custom_model_data":350}, "model": "custom/dagger"}
+	{"predicate": {"custom_model_data":350}, "model": "custom/dagger"},
+	{"predicate": {"custom_model_data":350}, "model": "custom/witchbrew"}
 		
 ]
 }
