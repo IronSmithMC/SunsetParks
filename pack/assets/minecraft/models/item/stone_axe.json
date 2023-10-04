@@ -24,6 +24,15 @@
 		{"predicate": {"custom_model_data":16}, "model": "custom/blackarm"},
 		{"predicate": {"custom_model_data":17}, "model": "custom/pbaseballbat"},
 		{"predicate": {"custom_model_data":18}, "model": "custom/wchainsawarm"},
-		{"predicate": {"custom_model_data":19}, "model": "custom/clownchainsawarm"}
+		{"predicate": {"custom_model_data":19}, "model": "custom/clownchainsawarm"},
+		{"predicate": {"custom_model_data":20}, "model": "custom/whiteknifearm"},
+		{"predicate": {"custom_model_data":21}, "model": "custom/tanknifearm"},
+		{"predicate": {"custom_model_data":22}, "model": "custom/skinknifearm"},
+		{"predicate": {"custom_model_data":23}, "model": "custom/brownknifearm"},
+		{"predicate": {"custom_model_data":24}, "model": "custom/whitearm"},
+		{"predicate": {"custom_model_data":25}, "model": "custom/tanarm"},
+		{"predicate": {"custom_model_data":26}, "model": "custom/clownhammerarm"},
+		{"predicate": {"custom_model_data":27}, "model": "custom/chainsawarm"},
+		{"predicate": {"custom_model_data":28}, "model": "custom/brownarm"}
 	]
 }
