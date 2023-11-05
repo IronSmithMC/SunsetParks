@@ -348,7 +348,8 @@
 	{"predicate": {"custom_model_data":348}, "model": "custom/demonhorns"},
 	{"predicate": {"custom_model_data":349}, "model": "custom/barrel"},
 	{"predicate": {"custom_model_data":350}, "model": "custom/dagger"},
-	{"predicate": {"custom_model_data":351}, "model": "custom/witchbrew"}
+	{"predicate": {"custom_model_data":351}, "model": "custom/witchbrew"},
+	{"predicate": {"custom_model_data":352}, "model": "custom/toadcar"}
 		
 ]
 }
