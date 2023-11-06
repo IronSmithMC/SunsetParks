@@ -349,7 +349,24 @@
 	{"predicate": {"custom_model_data":349}, "model": "custom/barrel"},
 	{"predicate": {"custom_model_data":350}, "model": "custom/dagger"},
 	{"predicate": {"custom_model_data":351}, "model": "custom/witchbrew"},
-	{"predicate": {"custom_model_data":352}, "model": "custom/toadcar"}
+	{"predicate": {"custom_model_data":352}, "model": "custom/toadcar"},
+	{"predicate": {"custom_model_data":353}, "model": "custom/elfhat"},
+	{"predicate": {"custom_model_data":354}, "model": "custom/greenhb"},
+	{"predicate": {"custom_model_data":355}, "model": "custom/holly"},
+	{"predicate": {"custom_model_data":356}, "model": "custom/redhb"},
+	{"predicate": {"custom_model_data":357}, "model": "custom/santablue"},
+	{"predicate": {"custom_model_data":358}, "model": "custom/santacyan"},
+	{"predicate": {"custom_model_data":359}, "model": "custom/santaears"},
+	{"predicate": {"custom_model_data":360}, "model": "custom/santahat"},
+	{"predicate": {"custom_model_data":361}, "model": "custom/santamagenta"},
+	{"predicate": {"custom_model_data":362}, "model": "custom/santapink"},
+	{"predicate": {"custom_model_data":363}, "model": "custom/santapurple"},
+	{"predicate": {"custom_model_data":364}, "model": "custom/santayellow"},
+	{"predicate": {"custom_model_data":365}, "model": "custom/stripbp"},
+	{"predicate": {"custom_model_data":366}, "model": "custom/striphb"},
+	{"predicate": {"custom_model_data":367}, "model": "custom/christmashbr"},
+	{"predicate": {"custom_model_data":368}, "model": "custom/christmashbg"},
+	{"predicate": {"custom_model_data":369}, "model": "custom/christmasbpr"}
 		
 ]
 }
