@@ -367,9 +367,9 @@
 	{"predicate": {"custom_model_data":367}, "model": "custom/christmashbr"},
 	{"predicate": {"custom_model_data":368}, "model": "custom/christmashbg"},
 	{"predicate": {"custom_model_data":369}, "model": "custom/christmasbpr"},
-	{"predicate": {"custom_model_data":369}, "model": "custom/christmasears"},
-	{"predicate": {"custom_model_data":369}, "model": "custom/christmasearsbow"},
-	{"predicate": {"custom_model_data":369}, "model": "custom/stripears"}
+	{"predicate": {"custom_model_data":370}, "model": "custom/christmasears"},
+	{"predicate": {"custom_model_data":371}, "model": "custom/christmasearsbow"},
+	{"predicate": {"custom_model_data":372}, "model": "custom/stripears"}
 		
 ]
 }
