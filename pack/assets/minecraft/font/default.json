@@ -204,6 +204,13 @@
             "ascent": 13,
             "height": 17,
             "chars": ["\u8738"]
+        },
+          {
+            "type": "bitmap",
+            "file": "gui/custom/christmas_gui.png",
+            "ascent": 13,
+            "height": 17,
+            "chars": ["\u8739"]
         }
         
 ]
