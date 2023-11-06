@@ -2935,12 +2935,12 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [157, -94, 68],
+			"rotation": [-8, 90, 68],
 			"translation": [0.75, 0.75, 3]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [101, 99, -19],
-			"translation": [0, 2.25, 3.75]
+			"rotation": [47, -96, -22],
+			"translation": [0, 0.25, 3.75]
 		},
 		"firstperson_righthand": {
 			"rotation": [-6, -121, 1],
@@ -2959,7 +2959,7 @@
 			"scale": [1.27, 1.27, 1.23]
 		},
 		"head": {
-			"rotation": [0, -89, 0],
+			"rotation": [0, 87, 0],
 			"translation": [0, 18.5, 0],
 			"scale": [2.4, 2.4, 2.4]
 		},
