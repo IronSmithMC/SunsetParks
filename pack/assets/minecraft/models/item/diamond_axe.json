@@ -369,7 +369,10 @@
 	{"predicate": {"custom_model_data":369}, "model": "custom/christmasbpr"},
 	{"predicate": {"custom_model_data":370}, "model": "custom/christmasears"},
 	{"predicate": {"custom_model_data":371}, "model": "custom/christmasearsbow"},
-	{"predicate": {"custom_model_data":372}, "model": "custom/stripears"}
+	{"predicate": {"custom_model_data":372}, "model": "custom/stripears"},
+	{"predicate": {"custom_model_data":373}, "model": "custom/kwanzahb"},
+	{"predicate": {"custom_model_data":374}, "model": "custom/snowflakehb"},
+	{"predicate": {"custom_model_data":375}, "model": "custom/hanukkahhb"}
 		
 ]
 }
