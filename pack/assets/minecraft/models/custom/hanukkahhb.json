@@ -3,10 +3,10 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"1": "block/blue_ice",
-		"4": "pngwing.com",
+		"4": "item/custom/pngwing.com",
 		"5": "block/blue_concrete",
 		"6": "block/black_concrete",
-		"7": "imgbin_menorah-hanukkah-png",
+		"7": "item/custom/imgbin_menorah-hanukkah-png",
 		"particle": "block/blue_concrete_powder"
 	},
 	"elements": [
