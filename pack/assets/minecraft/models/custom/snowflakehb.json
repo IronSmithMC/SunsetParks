@@ -5,7 +5,7 @@
 		"0": "block/ice",
 		"3": "block/light_blue_concrete",
 		"5": "block/white_concrete",
-		"6": "14-snowflake-png-image",
+		"6": "item/custom/14-snowflake-png-image",
 		"particle": "block/ice"
 	},
 	"elements": [
