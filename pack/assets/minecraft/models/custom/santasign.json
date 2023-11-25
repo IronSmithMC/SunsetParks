@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/custom/Untitled364_20231125100255",
-		"particle": "item/custom/Untitled364_20231125100255"
+		"0": "item/custom/untitled364_20231125100255",
+		"particle": "item/custom/untitled364_20231125100255"
 	},
 	"elements": [
 		{
