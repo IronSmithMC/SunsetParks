@@ -375,7 +375,9 @@
 	{"predicate": {"custom_model_data":375}, "model": "custom/hanukkahhb"},
 	{"predicate": {"custom_model_data":376}, "model": "custom/mickeysanta"},
 	{"predicate": {"custom_model_data":377}, "model": "custom/christmasbubble"},
-	{"predicate": {"custom_model_data":378}, "model": "custom/santasign"}
+	{"predicate": {"custom_model_data":378}, "model": "custom/santasign"},
+	{"predicate": {"custom_model_data":379}, "model": "custom/micsanta"},
+	{"predicate": {"custom_model_data":380}, "model": "custom/grinch"}
 		
 ]
 }
