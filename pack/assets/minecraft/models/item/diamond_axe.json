@@ -379,7 +379,8 @@
 	{"predicate": {"custom_model_data":379}, "model": "custom/micsanta"},
 	{"predicate": {"custom_model_data":380}, "model": "custom/grinch"},
 	{"predicate": {"custom_model_data":381}, "model": "custom/gingy"},
-	{"predicate": {"custom_model_data":382}, "model": "custom/candycane"}
+	{"predicate": {"custom_model_data":382}, "model": "custom/candycane"},
+	{"predicate": {"custom_model_data":383}, "model": "custom/smallclock"}
 		
 ]
 }
