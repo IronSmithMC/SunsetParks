@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "pasted",
-		"particle": "pasted"
+		"0": "item/custom/pasted",
+		"particle": "item/custom/pasted"
 	},
 	"elements": [
 		{
