@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/custom/pasted",
-		"particle": "item/custom/pasted"
+		"0": "pasted",
+		"particle": "pasted"
 	},
 	"elements": [
 		{
@@ -29,10 +29,19 @@
 			"translation": [-4, -9.75, 20.25],
 			"scale": [2.55, 2.55, 2.55]
 		},
+		"gui": {
+			"rotation": [0, 87, -1],
+			"translation": [1.25, 1.75, 0]
+		},
 		"head": {
 			"rotation": [0, -87, 0],
 			"translation": [-1, 1.75, 1.5],
 			"scale": [1.49, 1.49, 1.49]
+		},
+		"fixed": {
+			"rotation": [0, -90, 0],
+			"translation": [-2.5, 4.5, 24.5],
+			"scale": [4, 4, 4]
 		}
 	}
 }
