@@ -6,7 +6,7 @@
 		"2": "block/black_concrete",
 		"3": "block/dark_oak_planks",
 		"4": "block/light_blue_wool",
-		"5": "item/custom/jim",
+		"5": "jim",
 		"6": "block/gold_block",
 		"particle": "block/light_gray_wool"
 	},
