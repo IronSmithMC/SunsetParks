@@ -381,7 +381,9 @@
 	{"predicate": {"custom_model_data":381}, "model": "custom/gingy"},
 	{"predicate": {"custom_model_data":382}, "model": "custom/candycane"},
 	{"predicate": {"custom_model_data":383}, "model": "custom/smallclock"},
-	{"predicate": {"custom_model_data":384}, "model": "custom/jcricket"}
+	{"predicate": {"custom_model_data":384}, "model": "custom/jcricket"},
+	{"predicate": {"custom_model_data":385}, "model": "custom/whale"},
+	{"predicate": {"custom_model_data":386}, "model": "custom/pincoride"}
 		
 ]
 }
