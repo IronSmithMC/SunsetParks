@@ -385,7 +385,8 @@
 	{"predicate": {"custom_model_data":385}, "model": "custom/whale"},
 	{"predicate": {"custom_model_data":386}, "model": "custom/pincoride"},
 	{"predicate": {"custom_model_data":387}, "model": "custom/castlelamp"},
-	{"predicate": {"custom_model_data":388}, "model": "custom/iceears"}
+	{"predicate": {"custom_model_data":388}, "model": "custom/iceears"},
+	{"predicate": {"custom_model_data":389}, "model": "custom/jcrickethat"}
 		
 ]
 }
