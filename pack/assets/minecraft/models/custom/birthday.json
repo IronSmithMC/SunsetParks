@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "birthday"
+		"1": "item/cutom/birthday"
 	},
 	"elements": [
 		{
