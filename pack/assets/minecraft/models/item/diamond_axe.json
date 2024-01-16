@@ -388,7 +388,10 @@
 	{"predicate": {"custom_model_data":388}, "model": "custom/iceears"},
 	{"predicate": {"custom_model_data":389}, "model": "custom/jcrickethat"},
 	{"predicate": {"custom_model_data":390}, "model": "custom/arielbubble"},
-	{"predicate": {"custom_model_data":391}, "model": "custom/valentinehbr"}
+	{"predicate": {"custom_model_data":391}, "model": "custom/valentinehbr"},
+	{"predicate": {"custom_model_data":392}, "model": "custom/valentinehbp"},
+	{"predicate": {"custom_model_data":393}, "model": "custom/valentinehbpp"},
+	{"predicate": {"custom_model_data":394}, "model": "custom/valentinehbw"}
 		
 ]
 }
