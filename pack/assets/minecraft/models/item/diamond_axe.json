@@ -392,7 +392,20 @@
 	{"predicate": {"custom_model_data":392}, "model": "custom/valentinehbp"},
 	{"predicate": {"custom_model_data":393}, "model": "custom/valentinehbpp"},
 	{"predicate": {"custom_model_data":394}, "model": "custom/valentinehbw"},
-	{"predicate": {"custom_model_data":395}, "model": "custom/valentinesminmic"}
+	{"predicate": {"custom_model_data":395}, "model": "custom/valentinesminmic"},	
+	{"predicate": {"custom_model_data":396}, "model": "custom/balloonred"},
+	{"predicate": {"custom_model_data":397}, "model": "custom/balloonred"},
+	{"predicate": {"custom_model_data":398}, "model": "custom/balloonorange"},
+	{"predicate": {"custom_model_data":399}, "model": "custom/balloonyellow"},
+	{"predicate": {"custom_model_data":395}, "model": "custom/ballooncyan"},
+	{"predicate": {"custom_model_data":400}, "model": "custom/balloonmagenta"},
+	{"predicate": {"custom_model_data":401}, "model": "custom/balloonlime"},
+	{"predicate": {"custom_model_data":402}, "model": "custom/balloonmheartpink"},
+	{"predicate": {"custom_model_data":403}, "model": "custom/balloonmheartred"},
+	{"predicate": {"custom_model_data":404}, "model": "custom/balloonmheartmagenta"},
+	{"predicate": {"custom_model_data":405}, "model": "custom/valentinecap"},
+	{"predicate": {"custom_model_data":406}, "model": "custom/hearts"}
+	
 		
 ]
 }
