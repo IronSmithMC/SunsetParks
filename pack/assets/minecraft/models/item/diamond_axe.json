@@ -404,7 +404,8 @@
 	{"predicate": {"custom_model_data":404}, "model": "custom/balloonmheartmagenta"},
 	{"predicate": {"custom_model_data":405}, "model": "custom/valentinecap"},
 	{"predicate": {"custom_model_data":406}, "model": "custom/hearts"},
-	{"predicate": {"custom_model_data":407}, "model": "custom/wishstar"}
+	{"predicate": {"custom_model_data":407}, "model": "custom/wishstar"},
+	{"predicate": {"custom_model_data":407}, "model": "custom/wishhb"}
 	
 		
 ]
