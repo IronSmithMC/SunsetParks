@@ -5,7 +5,7 @@
 		"1": "block/blue_concrete",
 		"2": "block/sculk",
 		"3": "block/campfire_fire",
-		"4": "wishhb",
+		"4": "item/custom/wishhb",
 		"particle": "block/blue_concrete"
 	},
 	"elements": [
