@@ -2711,6 +2711,16 @@
 		}
 	],
 	"display": {
+		"thirdperson_righthand": {
+			"rotation": [67, 0, 0],
+			"translation": [-3, -1.5, 29.5],
+			"scale": [2.39, 2.39, 2.39]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [67, 0, 0],
+			"translation": [-8, -1.5, 29.5],
+			"scale": [2.39, 2.39, 2.39]
+		},
 		"firstperson_righthand": {
 			"translation": [6, 3, 0]
 		},
