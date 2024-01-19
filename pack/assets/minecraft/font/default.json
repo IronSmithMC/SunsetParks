@@ -211,6 +211,20 @@
             "ascent": 13,
             "height": 17,
             "chars": ["\u8739"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/custom/valentinesgui.png",
+            "ascent": 13,
+            "height": 17,
+            "chars": ["\u8740"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/custom/wishgui.png",
+            "ascent": 13,
+            "height": 17,
+            "chars": ["\u8741"]
         }
         
 ]
