@@ -406,7 +406,11 @@
 	{"predicate": {"custom_model_data":406}, "model": "custom/hearts"},
 	{"predicate": {"custom_model_data":407}, "model": "custom/wishstar"},
 	{"predicate": {"custom_model_data":408}, "model": "custom/wishhb"},
-	{"predicate": {"custom_model_data":409}, "model": "custom/wishmicears"}
+	{"predicate": {"custom_model_data":409}, "model": "custom/wishmicears"},
+	{"predicate": {"custom_model_data":410}, "model": "custom/wdwbadge"},
+	{"predicate": {"custom_model_data":411}, "model": "custom/dlrbadge"},
+	{"predicate": {"custom_model_data":412}, "model": "custom/usobadge"},
+	{"predicate": {"custom_model_data":413}, "model": "custom/jcdlrbadge"}
 	
 		
 ]
