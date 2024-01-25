@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "block/redstone_block",
 		"1": "block/magma",
-		"2": "yeartiger",
+		"2": "item/custom/yeartiger",
 		"particle": "block/redstone_block"
 	},
 	"elements": [
