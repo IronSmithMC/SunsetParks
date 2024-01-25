@@ -410,10 +410,18 @@
 	{"predicate": {"custom_model_data":410}, "model": "custom/wdwbadge"},
 	{"predicate": {"custom_model_data":411}, "model": "custom/dlrbadge"},
 	{"predicate": {"custom_model_data":412}, "model": "custom/usobadge"},
-	{"predicate": {"custom_model_data":413}, "model": "custom/jcdlrbadge"}
-	{"predicate": {"custom_model_data":414}, "model": "custom/zachbadge"}
+	{"predicate": {"custom_model_data":413}, "model": "custom/jcdlrbadge"},
+	{"predicate": {"custom_model_data":414}, "model": "custom/zachbadge"},
 	{"predicate": {"custom_model_data":415}, "model": "custom/christianbadge"}
-	
+	{"predicate": {"custom_model_data":416}, "model": "custom/tigerhat"},
+	{"predicate": {"custom_model_data":417}, "model": "custom/yeartigerears"},
+	{"predicate": {"custom_model_data":418}, "model": "custom/yeartigerearhb"},
+	{"predicate": {"custom_model_data":419}, "model": "custom/tigertail"},
+	{"predicate": {"custom_model_data":420}, "model": "custom/nimbus"},
+	{"predicate": {"custom_model_data":421}, "model": "custom/heartwand"},
+	{"predicate": {"custom_model_data":422}, "model": "custom/yeartigerhb"},
+	{"predicate": {"custom_model_data":423}, "model": "custom/tiggerears"}
+		
 		
 ]
 }
