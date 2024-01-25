@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "block/redstone_block",
 		"1": "block/white_concrete",
-		"2": "block/pink_glazed_terracotta",
+		"2": "block/pink_wool",
 		"particle": "block/redstone_block"
 	},
 	"elements": [
