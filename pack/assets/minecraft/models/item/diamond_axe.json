@@ -420,7 +420,10 @@
 	{"predicate": {"custom_model_data":420}, "model": "custom/nimbus"},
 	{"predicate": {"custom_model_data":421}, "model": "custom/heartwand"},
 	{"predicate": {"custom_model_data":422}, "model": "custom/yeartigerhb"},
-	{"predicate": {"custom_model_data":423}, "model": "custom/tiggerears"}
+	{"predicate": {"custom_model_data":424}, "model": "custom/tiggerears"},
+	{"predicate": {"custom_model_data":425}, "model": "custom/redpandatail"},
+	{"predicate": {"custom_model_data":426}, "model": "custom/redpandaears"},
+	{"predicate": {"custom_model_data":427}, "model": "custom/mushu"}
 		
 		
 ]
