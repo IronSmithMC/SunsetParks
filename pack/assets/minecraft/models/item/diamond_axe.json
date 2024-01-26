@@ -412,7 +412,7 @@
 	{"predicate": {"custom_model_data":412}, "model": "custom/usobadge"},
 	{"predicate": {"custom_model_data":413}, "model": "custom/jcdlrbadge"},
 	{"predicate": {"custom_model_data":414}, "model": "custom/zachbadge"},
-	{"predicate": {"custom_model_data":415}, "model": "custom/christianbadge"}
+	{"predicate": {"custom_model_data":415}, "model": "custom/christianbadge"},
 	{"predicate": {"custom_model_data":416}, "model": "custom/tigerhat"},
 	{"predicate": {"custom_model_data":417}, "model": "custom/yeartigerears"},
 	{"predicate": {"custom_model_data":418}, "model": "custom/yeartigerearhb"},
