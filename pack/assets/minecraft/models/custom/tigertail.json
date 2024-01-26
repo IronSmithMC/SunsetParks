@@ -190,11 +190,11 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [-113, 0, 0],
-			"translation": [-5, -0.5, -5.75]
+			"translation": [-5, -4.25, -2.25]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [-41, -11, 180],
-			"translation": [-6.5, -4.25, 7.5]
+			"translation": [-6.5, -8, 9.25]
 		},
 		"firstperson_righthand": {
 			"translation": [-38, 0, 0]
@@ -211,7 +211,7 @@
 		},
 		"head": {
 			"rotation": [1, -180, 0],
-			"translation": [-0.5, -14.5, -5],
+			"translation": [-0.5, -14.5, -4.5],
 			"scale": [1.76, 1.76, 1.76]
 		}
 	}
