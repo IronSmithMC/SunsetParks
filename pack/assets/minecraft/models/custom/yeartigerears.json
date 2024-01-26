@@ -4,7 +4,6 @@
 	"textures": {
 		"0": "block/redstone_block",
 		"1": "block/magma",
-		"2": "item/custom/yeartiger",
 		"particle": "block/redstone_block"
 	},
 	"elements": [
@@ -561,9 +560,9 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4.3352, 8]},
 			"faces": {
 				"north": {"uv": [4, 3, 4.375, 3.5], "texture": "#0"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#missing"},
 				"south": {"uv": [4, 3.5, 4.375, 4], "texture": "#0"},
-				"west": {"uv": [0.67022, 1.26788, 1.04522, 1.76788], "texture": "#2"},
+				"west": {"uv": [0.67022, 1.26788, 1.04522, 1.76788], "texture": "#missing"},
 				"up": {"uv": [5.375, 7.375, 5, 7], "texture": "#0"},
 				"down": {"uv": [7.375, 5, 7, 5.375], "texture": "#0"}
 			}
