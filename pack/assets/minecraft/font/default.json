@@ -225,6 +225,13 @@
             "ascent": 13,
             "height": 17,
             "chars": ["\u8222"]
+        },
+        {
+            "type": "bitmap",
+            "file": "gui/custom/lunarnewyeargui.png",
+            "ascent": 13,
+            "height": 17,
+            "chars": ["\u8224"]
         }
         
 ]
