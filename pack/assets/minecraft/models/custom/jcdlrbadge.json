@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "jcdlrbadge",
-		"particle": "zachyuniversalbadge"
+		"2": "item/custom/jcdlrbadge",
+		"particle": "item/custom/jcdlrbadge"
 	},
 	"elements": [
 		{
