@@ -425,7 +425,11 @@
 	{"predicate": {"custom_model_data":426}, "model": "custom/redpandaears"},
 	{"predicate": {"custom_model_data":427}, "model": "custom/mushu"},
 	{"predicate": {"custom_model_data":428}, "model": "custom/spacem"},
-	{"predicate": {"custom_model_data":429}, "model": "custom/spacemback"}
+	{"predicate": {"custom_model_data":429}, "model": "custom/spacemback"},
+	{"predicate": {"custom_model_data":430}, "model": "custom/toonbench"},
+	{"predicate": {"custom_model_data":431}, "model": "custom/toonlamp"},
+	{"predicate": {"custom_model_data":432}, "model": "custom/toonsign"},
+	{"predicate": {"custom_model_data":433}, "model": "custom/toonbentlamp"}
 		
 		
 ]
