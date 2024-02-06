@@ -431,7 +431,8 @@
 	{"predicate": {"custom_model_data":432}, "model": "custom/toonsign"},
 	{"predicate": {"custom_model_data":433}, "model": "custom/toonbentlamp"},
 	{"predicate": {"custom_model_data":434}, "model": "custom/wendydress"},
-	{"predicate": {"custom_model_data":435}, "model": "custom/wendyarm"}
+	{"predicate": {"custom_model_data":435}, "model": "custom/wendyarm"},
+	{"predicate": {"custom_model_data":436}, "model": "custom/wendydresssit"}
 		
 ]
 }
