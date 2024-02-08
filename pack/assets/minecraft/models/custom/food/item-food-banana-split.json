@@ -8,7 +8,7 @@
 		"5": "block/bee_nest_side",
 		"6": "block/green_concrete_powder",
 		"7": "block/pink_concrete",
-		"particle": "pink_concrete"
+		"particle": "block/pink_concrete"
 	},
 	"elements": [
 		{
