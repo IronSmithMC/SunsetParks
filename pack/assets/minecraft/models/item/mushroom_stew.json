@@ -50,7 +50,8 @@
 	{"predicate": {"custom_model_data":44}, "model": "custom/redpop"},
 	{"predicate": {"custom_model_data":45}, "model": "custom/bluepop"},
 	{"predicate": {"custom_model_data":46}, "model": "custom/puplepop"},
-	{"predicate": {"custom_model_data":47}, "model": "custom/pinkpop"}
+	{"predicate": {"custom_model_data":47}, "model": "custom/pinkpop"},
+	{"predicate": {"custom_model_data":48}, "model": "custom/milkshakechoc"}
 	
 	]
 }
