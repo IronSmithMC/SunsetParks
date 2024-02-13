@@ -3,7 +3,6 @@
 	"textures": {
 		"1": "block/red_concrete",
 		"2": "block/red_terracotta",
-		"5": "block/bamboo_block",
 		"6": "block/yellow_terracotta",
 		"7": "block/black_concrete",
 		"8": "block/yellow_wool",
@@ -2174,14 +2173,13 @@
 			"from": [10.2, 9.80435, 17],
 			"to": [11, 9.99565, 17.95],
 			"rotation": {"angle": 45, "axis": "x", "origin": [8, 10.6, 21]},
-			"color": 5,
 			"faces": {
-				"north": {"uv": [0, 0, 1, 1], "texture": "#missing"},
-				"east": {"uv": [0, 0, 1, 1], "texture": "#missing"},
-				"south": {"uv": [0, 0, 1, 1], "texture": "#missing"},
-				"west": {"uv": [0, 0, 1, 1], "texture": "#missing"},
-				"up": {"uv": [0, 0, 1, 1], "texture": "#missing"},
-				"down": {"uv": [0, 0, 1, 1], "texture": "#missing"}
+				"north": {"uv": [0, 0, 1, 1], "texture": "#9"},
+				"east": {"uv": [0, 0, 1, 1], "texture": "#9"},
+				"south": {"uv": [0, 0, 1, 1], "texture": "#9"},
+				"west": {"uv": [0, 0, 1, 1], "texture": "#9"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#9"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#9"}
 			}
 		},
 		{
@@ -2204,12 +2202,12 @@
 			"to": [-2.2, 9.99565, 17.95],
 			"rotation": {"angle": 45, "axis": "x", "origin": [-5.2, 10.6, 21]},
 			"faces": {
-				"north": {"uv": [0, 0, 4.7, 4.3], "texture": "#5"},
-				"east": {"uv": [0, 0, 4.7, 4.3], "texture": "#5"},
-				"south": {"uv": [0, 0, 4.7, 4.3], "texture": "#5"},
-				"west": {"uv": [0, 0, 4.7, 4.3], "texture": "#5"},
-				"up": {"uv": [0, 0, 4.7, 4.3], "texture": "#5"},
-				"down": {"uv": [0, 0, 4.7, 4.3], "texture": "#5"}
+				"north": {"uv": [0, 0, 4.7, 4.3], "texture": "#9"},
+				"east": {"uv": [0, 0, 4.7, 4.3], "texture": "#9"},
+				"south": {"uv": [0, 0, 4.7, 4.3], "texture": "#9"},
+				"west": {"uv": [0, 0, 4.7, 4.3], "texture": "#9"},
+				"up": {"uv": [0, 0, 4.7, 4.3], "texture": "#9"},
+				"down": {"uv": [0, 0, 4.7, 4.3], "texture": "#9"}
 			}
 		},
 		{
@@ -2271,8 +2269,8 @@
 		},
 		{
 			"name": "hexadecagon",
-			"from": [-0.5, 11.15, 8.00435],
-			"to": [8, 11.8, 8.69565],
+			"from": [-0.5, 10.95, 8.00435],
+			"to": [8, 11.6, 8.69565],
 			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 8, 7.2]},
 			"faces": {
 				"north": {"uv": [0, 0, 1, 1], "rotation": 180, "texture": "#7"},
