@@ -1,5 +1,5 @@
 {
-	"__comment": "Designed for the MCMagic Server with Cubik Studio - https://cubik.studio",
+	"__comment": "created for sunset parks server",
 	"textures": {
 		"particle": "block/e_particle",
 		"hardened_clay_stained_megenta": "block/hardened_clay_stained_magenta",
