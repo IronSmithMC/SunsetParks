@@ -434,7 +434,11 @@
 	{"predicate": {"custom_model_data":435}, "model": "custom/wendyarm"},
 	{"predicate": {"custom_model_data":436}, "model": "custom/wendydresssit"},
 	{"predicate": {"custom_model_data":437}, "model": "custom/gadgetcoasterone"},
-	{"predicate": {"custom_model_data":438}, "model": "custom/gadgetcoastertwo"}
+	{"predicate": {"custom_model_data":438}, "model": "custom/gadgetcoastertwo"},
+	{"predicate": {"custom_model_data":439}, "model": "custom/bellehb"},
+	{"predicate": {"custom_model_data":440}, "model": "custom/jasminehb"},
+	{"predicate": {"custom_model_data":441}, "model": "custom/cinderellahb"},
+	{"predicate": {"custom_model_data":442}, "model": "custom/tianahb"}
 		
 ]
 }
