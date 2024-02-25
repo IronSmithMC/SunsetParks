@@ -438,7 +438,8 @@
 	{"predicate": {"custom_model_data":439}, "model": "custom/bellehb"},
 	{"predicate": {"custom_model_data":440}, "model": "custom/jasminehb"},
 	{"predicate": {"custom_model_data":441}, "model": "custom/cinderellahb"},
-	{"predicate": {"custom_model_data":442}, "model": "custom/tianahb"}
+	{"predicate": {"custom_model_data":442}, "model": "custom/tianahb"},
+	{"predicate": {"custom_model_data":443}, "model": "custom/toontrash"}
 		
 ]
 }
