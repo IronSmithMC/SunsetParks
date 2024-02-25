@@ -2,7 +2,7 @@
 	"credit": "created for sunset parks server Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "toontrash",
+		"1": "item/custom/toontrash",
 		"2": "block/light_blue_concrete",
 		"3": "block/white_concrete",
 		"4": "block/light_blue_concrete_powder",
