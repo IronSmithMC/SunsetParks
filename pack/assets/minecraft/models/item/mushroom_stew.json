@@ -51,7 +51,13 @@
 	{"predicate": {"custom_model_data":45}, "model": "custom/bluepop"},
 	{"predicate": {"custom_model_data":46}, "model": "custom/puplepop"},
 	{"predicate": {"custom_model_data":47}, "model": "custom/pinkpop"},
-	{"predicate": {"custom_model_data":48}, "model": "custom/milkshakechoc"}
+	{"predicate": {"custom_model_data":48}, "model": "custom/milkshakechoc"},
+	{"predicate": {"custom_model_data":49}, "model": "custom/applefood"},
+	{"predicate": {"custom_model_data":50}, "model": "custom/orangefood"},
+	{"predicate": {"custom_model_data":51}, "model": "custom/bananafood"},
+	{"predicate": {"custom_model_data":52}, "model": "custom/mickeypizza"},
+	{"predicate": {"custom_model_data":53}, "model": "custom/blueberrymuffin"},
+	{"predicate": {"custom_model_data":54}, "model": "custom/minniecupcake"}
 	
 	]
 }
