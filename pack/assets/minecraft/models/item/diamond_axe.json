@@ -441,7 +441,14 @@
 	{"predicate": {"custom_model_data":442}, "model": "custom/tianahb"},
 	{"predicate": {"custom_model_data":443}, "model": "custom/toontrash"},
 	{"predicate": {"custom_model_data":444}, "model": "custom/rogerrabbitride"},
-	{"predicate": {"custom_model_data":445}, "model": "custom/lenny"}
+	{"predicate": {"custom_model_data":445}, "model": "custom/lenny"},
+	{"predicate": {"custom_model_data":446}, "model": "custom/rrcap"},
+	{"predicate": {"custom_model_data":447}, "model": "custom/chubbyhb"},
+	{"predicate": {"custom_model_data":448}, "model": "custom/chubbysp"},
+	{"predicate": {"custom_model_data":449}, "model": "custom/runawayhb"},
+	{"predicate": {"custom_model_data":450}, "model": "custom/stitchcap"},
+	{"predicate": {"custom_model_data":451}, "model": "custom/pandyears"},
+	{"predicate": {"custom_model_data":452}, "model": "custom/poppyhair"}
 		
 ]
 }
