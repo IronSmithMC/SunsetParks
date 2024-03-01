@@ -448,7 +448,19 @@
 	{"predicate": {"custom_model_data":449}, "model": "custom/runawayhb"},
 	{"predicate": {"custom_model_data":450}, "model": "custom/stitchcap"},
 	{"predicate": {"custom_model_data":451}, "model": "custom/pandyears"},
-	{"predicate": {"custom_model_data":452}, "model": "custom/poppyhair"}
+	{"predicate": {"custom_model_data":452}, "model": "custom/poppyhair"},
+	{"predicate": {"custom_model_data":453}, "model": "custom/toontownbutton"},
+	{"predicate": {"custom_model_data":454}, "model": "custom/gadgetb"},
+	{"predicate": {"custom_model_data":455}, "model": "custom/rogerb"},
+	{"predicate": {"custom_model_data":456}, "model": "custom/cokeb"},
+	{"predicate": {"custom_model_data":457}, "model": "custom/hotdogb"},
+	{"predicate": {"custom_model_data":458}, "model": "custom/fftheaterb"},
+	{"predicate": {"custom_model_data":459}, "model": "custom/cafedaisyb"},
+	{"predicate": {"custom_model_data":460}, "model": "custom/smallworlddlr"},
+	{"predicate": {"custom_model_data":461}, "model": "custom/buzzdlr"},
+	{"predicate": {"custom_model_data":462}, "model": "custom/toonstoreb"},
+	{"predicate": {"custom_model_data":463}, "model": "custom/runawayb"}
+	
 		
 ]
 }
