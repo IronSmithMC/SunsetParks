@@ -460,7 +460,10 @@
 	{"predicate": {"custom_model_data":461}, "model": "custom/buzzdlr"},
 	{"predicate": {"custom_model_data":462}, "model": "custom/toonstoreb"},
 	{"predicate": {"custom_model_data":463}, "model": "custom/runawayb"},
-	{"predicate": {"custom_model_data":464}, "model": "custom/madhatterf"}
+	{"predicate": {"custom_model_data":464}, "model": "custom/madhatterf"},
+	{"predicate": {"custom_model_data":465}, "model": "custom/lampbannerthree"},
+	{"predicate": {"custom_model_data":466}, "model": "custom/wizardmickeywand"},
+	{"predicate": {"custom_model_data":467}, "model": "custom/wizhat"}
 	
 		
 ]
