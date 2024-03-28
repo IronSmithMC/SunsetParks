@@ -463,7 +463,9 @@
 	{"predicate": {"custom_model_data":464}, "model": "custom/madhatterf"},
 	{"predicate": {"custom_model_data":465}, "model": "custom/lampbannerthree"},
 	{"predicate": {"custom_model_data":466}, "model": "custom/wizardmickeywand"},
-	{"predicate": {"custom_model_data":467}, "model": "custom/wizhat"}
+	{"predicate": {"custom_model_data":467}, "model": "custom/wizhat"},
+	{"predicate": {"custom_model_data":468}, "model": "custom/carrotwand"},
+	{"predicate": {"custom_model_data":469}, "model": "custom/bunnyhead"}
 	
 		
 ]
